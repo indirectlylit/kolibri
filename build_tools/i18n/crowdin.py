@@ -241,7 +241,7 @@ def command_download(branch):
     logging.info("Crowdin: downloading '{}'...".format(branch))
     for lang in utils.supported_languages(include_in_context=True):
         code = lang[utils.KEY_CROWDIN_CODE]
-        url = DOWNLOAD_URL.format(api_key=CROWDIN_API_KEY, language=code, branch=branch)
+        url = DOWNLOAD_URL.format(language=code, branch=branch)
         r = requests.get(url)
         r.raise_for_status()
         z = zipfile.ZipFile(io.BytesIO(r.content))
@@ -286,11 +286,9 @@ def _chunks(files):
         yield files[i : i + MAX_FILES]
 
 
-def _modify(label, url, file_names, branch):
+def _modify(url, file_names):
     # split into multiple requests
     for chunk in _chunks(file_names):
-        logging.info("\t{} in '{}': {}".format(label, branch, ", ".join(chunk)))
-
         # generate the weird syntax and data structure required by crowdin + requests
         references = [_source_upload_ref(file_name) for file_name in chunk]
         r = requests.post(url, files=references)
@@ -324,19 +322,11 @@ def command_upload(branch):
     to_update = source_files.intersection(current_files)
 
     if to_add:
-        _modify(
-            "add",
-            ADD_SOURCE_URL.format(api_key=CROWDIN_API_KEY, branch=branch),
-            to_add,
-            branch,
-        )
+        logging.info("\tAdd in '{}': {}".format(branch, ", ".join(to_add)))
+        _modify(ADD_SOURCE_URL.format(branch=branch), to_add)
     if to_update:
-        _modify(
-            "update",
-            UPDATE_SOURCE_URL.format(api_key=CROWDIN_API_KEY, branch=branch),
-            to_update,
-            branch,
-        )
+        logging.info("\tUpdate in '{}': {}".format(branch, ", ".join(to_update)))
+        _modify(UPDATE_SOURCE_URL.format(branch=branch), to_update)
 
     logging.info("Crowdin: upload succeeded!")
 
