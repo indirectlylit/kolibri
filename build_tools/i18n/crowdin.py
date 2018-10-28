@@ -200,7 +200,7 @@ def _is_source(file_name):
     return file_name.endswith(".json") or file_name.endswith(".po")
 
 
-def _file_upload_ref(file_name):
+def _source_upload_ref(file_name):
     if file_name == PERSEUS_FILE:  # hack for perseus, assumes the same file name
         file_pointer = open(os.path.join(utils.PERSEUS_SOURCE_PATH, file_name), "rb")
     else:
@@ -222,7 +222,7 @@ def _modify(label, url, file_names, branch):
         logging.info("\t{} in '{}': {}".format(label, branch, ", ".join(chunk)))
 
         # generate the weird syntax and data structure required by crowdin + requests
-        references = [_file_upload_ref(file_name) for file_name in chunk]
+        references = [_source_upload_ref(file_name) for file_name in chunk]
         r = requests.post(url, files=references)
         r.raise_for_status()
         for ref in references:
