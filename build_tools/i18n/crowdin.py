@@ -231,10 +231,13 @@ def command_upload_translation(branch, lang_code, file_name):
         branch=branch, language=lang_object[utils.KEY_CROWDIN_CODE]
     )
 
-    if not file_name:
-        raise NotImplementedError("Need a file name")
-
-    file_names = [file_name]
+    file_names = []
+    if file_name:
+        file_names.append(file_name)
+    else:
+        for name in os.listdir(utils.local_locale_path(lang_object)):
+            if name.endswith(".json"):
+                file_names.append(name)
 
     for chunk in _chunks(file_names):
         logging.info("\t{}".format(", ".join(chunk)))
