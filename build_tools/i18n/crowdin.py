@@ -91,7 +91,7 @@ UPLOAD_TRANSLATION_URL = CROWDIN_API_URL.format(
     proj=CROWDIN_PROJECT,
     key=CROWDIN_API_KEY,
     cmd="upload-translation",
-    params="&branch={branch}&language={language}&auto_approve_imported=0&import_duplicates=1&json",
+    params="&branch={branch}&language={language}&auto_approve_imported=1&import_duplicates=1&json",
 )
 
 PERSEUS_FILE = "exercise_perseus_render_module-messages.json"
