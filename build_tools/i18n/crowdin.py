@@ -81,6 +81,12 @@ ADD_BRANCH_URL = CROWDIN_API_URL.format(
     cmd="add-directory",
     params="&name={branch}&is_branch=1&json",
 )
+PRETRANSLATE_URL = CROWDIN_API_URL.format(
+    proj=CROWDIN_PROJECT,
+    key=CROWDIN_API_KEY,
+    cmd="pre-translate",
+    params="&method=tm&apply_untranslated_strings_only=0&json",
+)
 # pre-translate based on exact ID and matches, and auto-approve
 PRETRANSLATE_APPROVE_PERFECT_MATCHES_URL = CROWDIN_API_URL.format(
     proj=CROWDIN_PROJECT,
@@ -178,13 +184,42 @@ def command_pretranslate(branch):
     """
     Applies pre-translation to the given branch on Crowdin
     """
-    params = []
-    files = [
+    json_files = [
         "{}/{}".format(branch, f)
         for f in _crowdin_files(branch, _get_crowdin_details())
+        if f.endswith('.json')
     ]
-    params.extend([("files[]", file) for file in files])
+    po_files = [
+        "{}/{}".format(branch, f)
+        for f in _crowdin_files(branch, _get_crowdin_details())
+        if f.endswith('.po')
+    ]
+
     codes = [lang[utils.KEY_CROWDIN_CODE] for lang in utils.supported_languages()]
+
+    logging.info("Crowdin: pre-translating and auto-approving .po files in '{}'...".format(branch))
+    # Do an aggressive pre-translation on .po files: their context changes often because
+    # it includes the line number that the string appeared on, and also these string
+    # in practice change rarely, so we auto-approve exact string matches and ignore context.
+    params = []
+    params.extend([("files[]", file) for file in po_files])
+    params.extend([("languages[]", code) for code in codes])
+    params.extend(
+        [
+            ("perfect_match", 0),  # pre-translate all strings, ignoring context
+            ("approve_translated", 0),  # turn on auto-approval
+            ("auto_approve_option", 2),  # exact string matches, ignoring context
+        ]
+    )
+    r = requests.post(PRETRANSLATE_URL, params=params)
+    r.raise_for_status()
+    logging.info("Crowdin: succeeded!")
+
+    # approve_translated=1&auto_approve_option=1&perfect_match=1
+
+    return
+    params = []
+    params.extend([("files[]", file) for file in files])
     params.extend([("languages[]", code) for code in codes])
 
     logging.info("Crowdin: pre-translating and approving exact matches in '{}'...".format(branch))
@@ -196,6 +231,7 @@ def command_pretranslate(branch):
     r = requests.post(PRETRANSLATE_FIND_STRING_COPIES_URL, params=params)
     r.raise_for_status()
     logging.info("Crowdin: succeeded!")
+
 
 
 """
