@@ -1,0 +1,2272 @@
+[
+  {
+    "ref": "refs/tags/v0.0.1__mmvp",
+    "node_id": "MDM6UmVmNDk5NzY5Mzk6djAuMC4xX19tbXZw",
+    "url": "https://api.github.com/repos/learningequality/kolibri/git/refs/tags/v0.0.1__mmvp",
+    "object": {
+      "sha": "d52e36d85a9ec6c5c880c12772b90776cf6842f0",
+      "type": "tag",
+      "url": "https://api.github.com/repos/learningequality/kolibri/git/tags/d52e36d85a9ec6c5c880c12772b90776cf6842f0"
+    }
+  },
+  {
+    "ref": "refs/tags/v0.0.1",
+    "node_id": "MDM6UmVmNDk5NzY5Mzk6djAuMC4x",
+    "url": "https://api.github.com/repos/learningequality/kolibri/git/refs/tags/v0.0.1",
+    "object": {
+      "sha": "e74e5a1162d17c4b606c218de7ba8e3085435892",
+      "type": "tag",
+      "url": "https://api.github.com/repos/learningequality/kolibri/git/tags/e74e5a1162d17c4b606c218de7ba8e3085435892"
+    }
+  },
+  {
+    "ref": "refs/tags/v0.1.0-rc0",
+    "node_id": "MDM6UmVmNDk5NzY5Mzk6djAuMS4wLXJjMA==",
+    "url": "https://api.github.com/repos/learningequality/kolibri/git/refs/tags/v0.1.0-rc0",
+    "object": {
+      "sha": "73cccbb34ec8d1545465f5bfe1c5c288397c8fe5",
+      "type": "tag",
+      "url": "https://api.github.com/repos/learningequality/kolibri/git/tags/73cccbb34ec8d1545465f5bfe1c5c288397c8fe5"
+    }
+  },
+  {
+    "ref": "refs/tags/v0.1.0-rc1",
+    "node_id": "MDM6UmVmNDk5NzY5Mzk6djAuMS4wLXJjMQ==",
+    "url": "https://api.github.com/repos/learningequality/kolibri/git/refs/tags/v0.1.0-rc1",
+    "object": {
+      "sha": "42ecd153d3461a2fdd24670083f2c37c29aa2138",
+      "type": "tag",
+      "url": "https://api.github.com/repos/learningequality/kolibri/git/tags/42ecd153d3461a2fdd24670083f2c37c29aa2138"
+    }
+  },
+  {
+    "ref": "refs/tags/v0.1.0-rc2",
+    "node_id": "MDM6UmVmNDk5NzY5Mzk6djAuMS4wLXJjMg==",
+    "url": "https://api.github.com/repos/learningequality/kolibri/git/refs/tags/v0.1.0-rc2",
+    "object": {
+      "sha": "f71afc85c20ae7617bf2b443752a5a28edcfcb04",
+      "type": "tag",
+      "url": "https://api.github.com/repos/learningequality/kolibri/git/tags/f71afc85c20ae7617bf2b443752a5a28edcfcb04"
+    }
+  },
+  {
+    "ref": "refs/tags/v0.1.0-rc3",
+    "node_id": "MDM6UmVmNDk5NzY5Mzk6djAuMS4wLXJjMw==",
+    "url": "https://api.github.com/repos/learningequality/kolibri/git/refs/tags/v0.1.0-rc3",
+    "object": {
+      "sha": "494be3900476e415b0df171b2b402c4723ab976a",
+      "type": "tag",
+      "url": "https://api.github.com/repos/learningequality/kolibri/git/tags/494be3900476e415b0df171b2b402c4723ab976a"
+    }
+  },
+  {
+    "ref": "refs/tags/v0.1.0__MVP",
+    "node_id": "MDM6UmVmNDk5NzY5Mzk6djAuMS4wX19NVlA=",
+    "url": "https://api.github.com/repos/learningequality/kolibri/git/refs/tags/v0.1.0__MVP",
+    "object": {
+      "sha": "f9aee36921611c1c5d841c27cec40234d308a5f8",
+      "type": "tag",
+      "url": "https://api.github.com/repos/learningequality/kolibri/git/tags/f9aee36921611c1c5d841c27cec40234d308a5f8"
+    }
+  },
+  {
+    "ref": "refs/tags/v0.1.1-rc1",
+    "node_id": "MDM6UmVmNDk5NzY5Mzk6djAuMS4xLXJjMQ==",
+    "url": "https://api.github.com/repos/learningequality/kolibri/git/refs/tags/v0.1.1-rc1",
+    "object": {
+      "sha": "2e7cb723e6f87871feeebb885f3aed4f370bdbef",
+      "type": "tag",
+      "url": "https://api.github.com/repos/learningequality/kolibri/git/tags/2e7cb723e6f87871feeebb885f3aed4f370bdbef"
+    }
+  },
+  {
+    "ref": "refs/tags/v0.1.1-rc2",
+    "node_id": "MDM6UmVmNDk5NzY5Mzk6djAuMS4xLXJjMg==",
+    "url": "https://api.github.com/repos/learningequality/kolibri/git/refs/tags/v0.1.1-rc2",
+    "object": {
+      "sha": "dc07b82206778ef6de8bc5a360388e1dbcd7af88",
+      "type": "commit",
+      "url": "https://api.github.com/repos/learningequality/kolibri/git/commits/dc07b82206778ef6de8bc5a360388e1dbcd7af88"
+    }
+  },
+  {
+    "ref": "refs/tags/v0.1.1-rc3",
+    "node_id": "MDM6UmVmNDk5NzY5Mzk6djAuMS4xLXJjMw==",
+    "url": "https://api.github.com/repos/learningequality/kolibri/git/refs/tags/v0.1.1-rc3",
+    "object": {
+      "sha": "abd0e1a22db88b89a49705cf46bc797fda484edb",
+      "type": "commit",
+      "url": "https://api.github.com/repos/learningequality/kolibri/git/commits/abd0e1a22db88b89a49705cf46bc797fda484edb"
+    }
+  },
+  {
+    "ref": "refs/tags/v0.2.0-alpha0",
+    "node_id": "MDM6UmVmNDk5NzY5Mzk6djAuMi4wLWFscGhhMA==",
+    "url": "https://api.github.com/repos/learningequality/kolibri/git/refs/tags/v0.2.0-alpha0",
+    "object": {
+      "sha": "2b33ea9cbdb32e4f69c31eb2c116b5a85e48993b",
+      "type": "commit",
+      "url": "https://api.github.com/repos/learningequality/kolibri/git/commits/2b33ea9cbdb32e4f69c31eb2c116b5a85e48993b"
+    }
+  },
+  {
+    "ref": "refs/tags/v0.2.0-alpha1",
+    "node_id": "MDM6UmVmNDk5NzY5Mzk6djAuMi4wLWFscGhhMQ==",
+    "url": "https://api.github.com/repos/learningequality/kolibri/git/refs/tags/v0.2.0-alpha1",
+    "object": {
+      "sha": "c011279f367f9d5223073669186cc24ed7393114",
+      "type": "commit",
+      "url": "https://api.github.com/repos/learningequality/kolibri/git/commits/c011279f367f9d5223073669186cc24ed7393114"
+    }
+  },
+  {
+    "ref": "refs/tags/v0.2.0-alpha2",
+    "node_id": "MDM6UmVmNDk5NzY5Mzk6djAuMi4wLWFscGhhMg==",
+    "url": "https://api.github.com/repos/learningequality/kolibri/git/refs/tags/v0.2.0-alpha2",
+    "object": {
+      "sha": "70b8f96e74b6413e67a8c388f7bf3183dcb5a85e",
+      "type": "commit",
+      "url": "https://api.github.com/repos/learningequality/kolibri/git/commits/70b8f96e74b6413e67a8c388f7bf3183dcb5a85e"
+    }
+  },
+  {
+    "ref": "refs/tags/v0.2.0-alpha3",
+    "node_id": "MDM6UmVmNDk5NzY5Mzk6djAuMi4wLWFscGhhMw==",
+    "url": "https://api.github.com/repos/learningequality/kolibri/git/refs/tags/v0.2.0-alpha3",
+    "object": {
+      "sha": "c47f351cf498eb4c3321806af4628d01a8fb9e55",
+      "type": "commit",
+      "url": "https://api.github.com/repos/learningequality/kolibri/git/commits/c47f351cf498eb4c3321806af4628d01a8fb9e55"
+    }
+  },
+  {
+    "ref": "refs/tags/v0.2.0-alpha4",
+    "node_id": "MDM6UmVmNDk5NzY5Mzk6djAuMi4wLWFscGhhNA==",
+    "url": "https://api.github.com/repos/learningequality/kolibri/git/refs/tags/v0.2.0-alpha4",
+    "object": {
+      "sha": "c8d20dbdc2cb679f78cdbb36ce35e7826821dce7",
+      "type": "commit",
+      "url": "https://api.github.com/repos/learningequality/kolibri/git/commits/c8d20dbdc2cb679f78cdbb36ce35e7826821dce7"
+    }
+  },
+  {
+    "ref": "refs/tags/v0.2.0-alpha5",
+    "node_id": "MDM6UmVmNDk5NzY5Mzk6djAuMi4wLWFscGhhNQ==",
+    "url": "https://api.github.com/repos/learningequality/kolibri/git/refs/tags/v0.2.0-alpha5",
+    "object": {
+      "sha": "71bb3e0b427ab01c19a4757283f372e9f3c3d4ff",
+      "type": "commit",
+      "url": "https://api.github.com/repos/learningequality/kolibri/git/commits/71bb3e0b427ab01c19a4757283f372e9f3c3d4ff"
+    }
+  },
+  {
+    "ref": "refs/tags/v0.2.0-beta1",
+    "node_id": "MDM6UmVmNDk5NzY5Mzk6djAuMi4wLWJldGEx",
+    "url": "https://api.github.com/repos/learningequality/kolibri/git/refs/tags/v0.2.0-beta1",
+    "object": {
+      "sha": "88134bdb4713c0ef8b34038ef5b68cb56f837154",
+      "type": "tag",
+      "url": "https://api.github.com/repos/learningequality/kolibri/git/tags/88134bdb4713c0ef8b34038ef5b68cb56f837154"
+    }
+  },
+  {
+    "ref": "refs/tags/v0.2.0-dev0",
+    "node_id": "MDM6UmVmNDk5NzY5Mzk6djAuMi4wLWRldjA=",
+    "url": "https://api.github.com/repos/learningequality/kolibri/git/refs/tags/v0.2.0-dev0",
+    "object": {
+      "sha": "b714ecd7e0901f6e8a4deb4708ad82ffdd693c0a",
+      "type": "commit",
+      "url": "https://api.github.com/repos/learningequality/kolibri/git/commits/b714ecd7e0901f6e8a4deb4708ad82ffdd693c0a"
+    }
+  },
+  {
+    "ref": "refs/tags/v0.2.0-rc1",
+    "node_id": "MDM6UmVmNDk5NzY5Mzk6djAuMi4wLXJjMQ==",
+    "url": "https://api.github.com/repos/learningequality/kolibri/git/refs/tags/v0.2.0-rc1",
+    "object": {
+      "sha": "adcc3466e76b23b5fdf955429322427d181d9a11",
+      "type": "tag",
+      "url": "https://api.github.com/repos/learningequality/kolibri/git/tags/adcc3466e76b23b5fdf955429322427d181d9a11"
+    }
+  },
+  {
+    "ref": "refs/tags/v0.2.0",
+    "node_id": "MDM6UmVmNDk5NzY5Mzk6djAuMi4w",
+    "url": "https://api.github.com/repos/learningequality/kolibri/git/refs/tags/v0.2.0",
+    "object": {
+      "sha": "a8c4dc1277ae7e029c904dc4be465fbec3b28561",
+      "type": "tag",
+      "url": "https://api.github.com/repos/learningequality/kolibri/git/tags/a8c4dc1277ae7e029c904dc4be465fbec3b28561"
+    }
+  },
+  {
+    "ref": "refs/tags/v0.2.1",
+    "node_id": "MDM6UmVmNDk5NzY5Mzk6djAuMi4x",
+    "url": "https://api.github.com/repos/learningequality/kolibri/git/refs/tags/v0.2.1",
+    "object": {
+      "sha": "54e069664c936ed52769cab765b923267988c3d0",
+      "type": "commit",
+      "url": "https://api.github.com/repos/learningequality/kolibri/git/commits/54e069664c936ed52769cab765b923267988c3d0"
+    }
+  },
+  {
+    "ref": "refs/tags/v0.3.0-beta1",
+    "node_id": "MDM6UmVmNDk5NzY5Mzk6djAuMy4wLWJldGEx",
+    "url": "https://api.github.com/repos/learningequality/kolibri/git/refs/tags/v0.3.0-beta1",
+    "object": {
+      "sha": "84ac3872ee04f29269905cbd826a95d52a46b773",
+      "type": "tag",
+      "url": "https://api.github.com/repos/learningequality/kolibri/git/tags/84ac3872ee04f29269905cbd826a95d52a46b773"
+    }
+  },
+  {
+    "ref": "refs/tags/v0.3.0",
+    "node_id": "MDM6UmVmNDk5NzY5Mzk6djAuMy4w",
+    "url": "https://api.github.com/repos/learningequality/kolibri/git/refs/tags/v0.3.0",
+    "object": {
+      "sha": "6bf50848b77ca78462e7287d954d14ff73f17e19",
+      "type": "tag",
+      "url": "https://api.github.com/repos/learningequality/kolibri/git/tags/6bf50848b77ca78462e7287d954d14ff73f17e19"
+    }
+  },
+  {
+    "ref": "refs/tags/v0.3.1-beta1",
+    "node_id": "MDM6UmVmNDk5NzY5Mzk6djAuMy4xLWJldGEx",
+    "url": "https://api.github.com/repos/learningequality/kolibri/git/refs/tags/v0.3.1-beta1",
+    "object": {
+      "sha": "948baa52542b417b8f0fe6cecde0a40f9e249bb6",
+      "type": "tag",
+      "url": "https://api.github.com/repos/learningequality/kolibri/git/tags/948baa52542b417b8f0fe6cecde0a40f9e249bb6"
+    }
+  },
+  {
+    "ref": "refs/tags/v0.3.1-beta2",
+    "node_id": "MDM6UmVmNDk5NzY5Mzk6djAuMy4xLWJldGEy",
+    "url": "https://api.github.com/repos/learningequality/kolibri/git/refs/tags/v0.3.1-beta2",
+    "object": {
+      "sha": "db37aee25694852e37fe520bb1efaea770947173",
+      "type": "commit",
+      "url": "https://api.github.com/repos/learningequality/kolibri/git/commits/db37aee25694852e37fe520bb1efaea770947173"
+    }
+  },
+  {
+    "ref": "refs/tags/v0.3.1-beta3",
+    "node_id": "MDM6UmVmNDk5NzY5Mzk6djAuMy4xLWJldGEz",
+    "url": "https://api.github.com/repos/learningequality/kolibri/git/refs/tags/v0.3.1-beta3",
+    "object": {
+      "sha": "98be23f0938104f93f3762ec280607951ff6d62b",
+      "type": "commit",
+      "url": "https://api.github.com/repos/learningequality/kolibri/git/commits/98be23f0938104f93f3762ec280607951ff6d62b"
+    }
+  },
+  {
+    "ref": "refs/tags/v0.3.1",
+    "node_id": "MDM6UmVmNDk5NzY5Mzk6djAuMy4x",
+    "url": "https://api.github.com/repos/learningequality/kolibri/git/refs/tags/v0.3.1",
+    "object": {
+      "sha": "fb6d8894332e48c4c52e739cdd80ab37b1618710",
+      "type": "commit",
+      "url": "https://api.github.com/repos/learningequality/kolibri/git/commits/fb6d8894332e48c4c52e739cdd80ab37b1618710"
+    }
+  },
+  {
+    "ref": "refs/tags/v0.3.2",
+    "node_id": "MDM6UmVmNDk5NzY5Mzk6djAuMy4y",
+    "url": "https://api.github.com/repos/learningequality/kolibri/git/refs/tags/v0.3.2",
+    "object": {
+      "sha": "64b5dabf6e48a09daab504f8921f481d22030242",
+      "type": "commit",
+      "url": "https://api.github.com/repos/learningequality/kolibri/git/commits/64b5dabf6e48a09daab504f8921f481d22030242"
+    }
+  },
+  {
+    "ref": "refs/tags/v0.3.3",
+    "node_id": "MDM6UmVmNDk5NzY5Mzk6djAuMy4z",
+    "url": "https://api.github.com/repos/learningequality/kolibri/git/refs/tags/v0.3.3",
+    "object": {
+      "sha": "8040a5862ce43cfe50038de65fa3203008426f8f",
+      "type": "commit",
+      "url": "https://api.github.com/repos/learningequality/kolibri/git/commits/8040a5862ce43cfe50038de65fa3203008426f8f"
+    }
+  },
+  {
+    "ref": "refs/tags/v0.4.0-alpha1",
+    "node_id": "MDM6UmVmNDk5NzY5Mzk6djAuNC4wLWFscGhhMQ==",
+    "url": "https://api.github.com/repos/learningequality/kolibri/git/refs/tags/v0.4.0-alpha1",
+    "object": {
+      "sha": "9161a79b08161508513cb3da166caf1f27925970",
+      "type": "tag",
+      "url": "https://api.github.com/repos/learningequality/kolibri/git/tags/9161a79b08161508513cb3da166caf1f27925970"
+    }
+  },
+  {
+    "ref": "refs/tags/v0.4.0-alpha2",
+    "node_id": "MDM6UmVmNDk5NzY5Mzk6djAuNC4wLWFscGhhMg==",
+    "url": "https://api.github.com/repos/learningequality/kolibri/git/refs/tags/v0.4.0-alpha2",
+    "object": {
+      "sha": "5d17ff89658decc794e8d45a0cb155d533ef2021",
+      "type": "tag",
+      "url": "https://api.github.com/repos/learningequality/kolibri/git/tags/5d17ff89658decc794e8d45a0cb155d533ef2021"
+    }
+  },
+  {
+    "ref": "refs/tags/v0.4.0-alpha3",
+    "node_id": "MDM6UmVmNDk5NzY5Mzk6djAuNC4wLWFscGhhMw==",
+    "url": "https://api.github.com/repos/learningequality/kolibri/git/refs/tags/v0.4.0-alpha3",
+    "object": {
+      "sha": "c80c5b885d8cc26da1a5a1f443326667ec0d3fe7",
+      "type": "commit",
+      "url": "https://api.github.com/repos/learningequality/kolibri/git/commits/c80c5b885d8cc26da1a5a1f443326667ec0d3fe7"
+    }
+  },
+  {
+    "ref": "refs/tags/v0.4.0-alpha4",
+    "node_id": "MDM6UmVmNDk5NzY5Mzk6djAuNC4wLWFscGhhNA==",
+    "url": "https://api.github.com/repos/learningequality/kolibri/git/refs/tags/v0.4.0-alpha4",
+    "object": {
+      "sha": "63cca6edea924141c3f5da60ddef0ccbb2f7ecfd",
+      "type": "commit",
+      "url": "https://api.github.com/repos/learningequality/kolibri/git/commits/63cca6edea924141c3f5da60ddef0ccbb2f7ecfd"
+    }
+  },
+  {
+    "ref": "refs/tags/v0.4.0-alpha5",
+    "node_id": "MDM6UmVmNDk5NzY5Mzk6djAuNC4wLWFscGhhNQ==",
+    "url": "https://api.github.com/repos/learningequality/kolibri/git/refs/tags/v0.4.0-alpha5",
+    "object": {
+      "sha": "97e55810919492b29fa83b6923159a8e36fa09da",
+      "type": "commit",
+      "url": "https://api.github.com/repos/learningequality/kolibri/git/commits/97e55810919492b29fa83b6923159a8e36fa09da"
+    }
+  },
+  {
+    "ref": "refs/tags/v0.4.0-alpha6",
+    "node_id": "MDM6UmVmNDk5NzY5Mzk6djAuNC4wLWFscGhhNg==",
+    "url": "https://api.github.com/repos/learningequality/kolibri/git/refs/tags/v0.4.0-alpha6",
+    "object": {
+      "sha": "d7fb6758582954e3da099606f1071b477b80b93c",
+      "type": "commit",
+      "url": "https://api.github.com/repos/learningequality/kolibri/git/commits/d7fb6758582954e3da099606f1071b477b80b93c"
+    }
+  },
+  {
+    "ref": "refs/tags/v0.4.0-alpha7",
+    "node_id": "MDM6UmVmNDk5NzY5Mzk6djAuNC4wLWFscGhhNw==",
+    "url": "https://api.github.com/repos/learningequality/kolibri/git/refs/tags/v0.4.0-alpha7",
+    "object": {
+      "sha": "c9531366cca3875e5e9f0ffe0526003680972817",
+      "type": "commit",
+      "url": "https://api.github.com/repos/learningequality/kolibri/git/commits/c9531366cca3875e5e9f0ffe0526003680972817"
+    }
+  },
+  {
+    "ref": "refs/tags/v0.4.0-beta1",
+    "node_id": "MDM6UmVmNDk5NzY5Mzk6djAuNC4wLWJldGEx",
+    "url": "https://api.github.com/repos/learningequality/kolibri/git/refs/tags/v0.4.0-beta1",
+    "object": {
+      "sha": "3e5195c0bf189ba63f6682b85870d4171f040e60",
+      "type": "commit",
+      "url": "https://api.github.com/repos/learningequality/kolibri/git/commits/3e5195c0bf189ba63f6682b85870d4171f040e60"
+    }
+  },
+  {
+    "ref": "refs/tags/v0.4.0-beta2",
+    "node_id": "MDM6UmVmNDk5NzY5Mzk6djAuNC4wLWJldGEy",
+    "url": "https://api.github.com/repos/learningequality/kolibri/git/refs/tags/v0.4.0-beta2",
+    "object": {
+      "sha": "0d494674714e982319070c335174596e231877b4",
+      "type": "commit",
+      "url": "https://api.github.com/repos/learningequality/kolibri/git/commits/0d494674714e982319070c335174596e231877b4"
+    }
+  },
+  {
+    "ref": "refs/tags/v0.4.0-beta3",
+    "node_id": "MDM6UmVmNDk5NzY5Mzk6djAuNC4wLWJldGEz",
+    "url": "https://api.github.com/repos/learningequality/kolibri/git/refs/tags/v0.4.0-beta3",
+    "object": {
+      "sha": "6f9859fcec15b37f54983975507b6829c7e0d95a",
+      "type": "commit",
+      "url": "https://api.github.com/repos/learningequality/kolibri/git/commits/6f9859fcec15b37f54983975507b6829c7e0d95a"
+    }
+  },
+  {
+    "ref": "refs/tags/v0.4.0-beta4",
+    "node_id": "MDM6UmVmNDk5NzY5Mzk6djAuNC4wLWJldGE0",
+    "url": "https://api.github.com/repos/learningequality/kolibri/git/refs/tags/v0.4.0-beta4",
+    "object": {
+      "sha": "f550d3ad1e1e1a6e2ae0a260d11f48bdd0b93b13",
+      "type": "commit",
+      "url": "https://api.github.com/repos/learningequality/kolibri/git/commits/f550d3ad1e1e1a6e2ae0a260d11f48bdd0b93b13"
+    }
+  },
+  {
+    "ref": "refs/tags/v0.4.0-beta5",
+    "node_id": "MDM6UmVmNDk5NzY5Mzk6djAuNC4wLWJldGE1",
+    "url": "https://api.github.com/repos/learningequality/kolibri/git/refs/tags/v0.4.0-beta5",
+    "object": {
+      "sha": "0b66fea58fdf7aad7d98a5608492173af55cc605",
+      "type": "commit",
+      "url": "https://api.github.com/repos/learningequality/kolibri/git/commits/0b66fea58fdf7aad7d98a5608492173af55cc605"
+    }
+  },
+  {
+    "ref": "refs/tags/v0.4.0-beta6",
+    "node_id": "MDM6UmVmNDk5NzY5Mzk6djAuNC4wLWJldGE2",
+    "url": "https://api.github.com/repos/learningequality/kolibri/git/refs/tags/v0.4.0-beta6",
+    "object": {
+      "sha": "3e82e58c5feb4ef211aeec6a3f1e8abcedd5ab22",
+      "type": "commit",
+      "url": "https://api.github.com/repos/learningequality/kolibri/git/commits/3e82e58c5feb4ef211aeec6a3f1e8abcedd5ab22"
+    }
+  },
+  {
+    "ref": "refs/tags/v0.4.0-beta7",
+    "node_id": "MDM6UmVmNDk5NzY5Mzk6djAuNC4wLWJldGE3",
+    "url": "https://api.github.com/repos/learningequality/kolibri/git/refs/tags/v0.4.0-beta7",
+    "object": {
+      "sha": "da4e30e6cebef198b567283d4035ade8e20b769e",
+      "type": "commit",
+      "url": "https://api.github.com/repos/learningequality/kolibri/git/commits/da4e30e6cebef198b567283d4035ade8e20b769e"
+    }
+  },
+  {
+    "ref": "refs/tags/v0.4.0-beta8",
+    "node_id": "MDM6UmVmNDk5NzY5Mzk6djAuNC4wLWJldGE4",
+    "url": "https://api.github.com/repos/learningequality/kolibri/git/refs/tags/v0.4.0-beta8",
+    "object": {
+      "sha": "206271492fd1aa6a74bf2ab38320424cde61ae1b",
+      "type": "commit",
+      "url": "https://api.github.com/repos/learningequality/kolibri/git/commits/206271492fd1aa6a74bf2ab38320424cde61ae1b"
+    }
+  },
+  {
+    "ref": "refs/tags/v0.4.0-beta9",
+    "node_id": "MDM6UmVmNDk5NzY5Mzk6djAuNC4wLWJldGE5",
+    "url": "https://api.github.com/repos/learningequality/kolibri/git/refs/tags/v0.4.0-beta9",
+    "object": {
+      "sha": "15c3638c7a13d9b692f881155175dfb8a53f3afe",
+      "type": "commit",
+      "url": "https://api.github.com/repos/learningequality/kolibri/git/commits/15c3638c7a13d9b692f881155175dfb8a53f3afe"
+    }
+  },
+  {
+    "ref": "refs/tags/v0.4.0-beta10",
+    "node_id": "MDM6UmVmNDk5NzY5Mzk6djAuNC4wLWJldGExMA==",
+    "url": "https://api.github.com/repos/learningequality/kolibri/git/refs/tags/v0.4.0-beta10",
+    "object": {
+      "sha": "ee20dbb7e2743ecee62bd23389215c8cbbcf0a6b",
+      "type": "commit",
+      "url": "https://api.github.com/repos/learningequality/kolibri/git/commits/ee20dbb7e2743ecee62bd23389215c8cbbcf0a6b"
+    }
+  },
+  {
+    "ref": "refs/tags/v0.4.0-beta11",
+    "node_id": "MDM6UmVmNDk5NzY5Mzk6djAuNC4wLWJldGExMQ==",
+    "url": "https://api.github.com/repos/learningequality/kolibri/git/refs/tags/v0.4.0-beta11",
+    "object": {
+      "sha": "97a4c188e34cee9c3f72348c5507e2c0237542d6",
+      "type": "commit",
+      "url": "https://api.github.com/repos/learningequality/kolibri/git/commits/97a4c188e34cee9c3f72348c5507e2c0237542d6"
+    }
+  },
+  {
+    "ref": "refs/tags/v0.4.0",
+    "node_id": "MDM6UmVmNDk5NzY5Mzk6djAuNC4w",
+    "url": "https://api.github.com/repos/learningequality/kolibri/git/refs/tags/v0.4.0",
+    "object": {
+      "sha": "d121ef8e7c0fd8cd99c880a12c5beb8149963564",
+      "type": "commit",
+      "url": "https://api.github.com/repos/learningequality/kolibri/git/commits/d121ef8e7c0fd8cd99c880a12c5beb8149963564"
+    }
+  },
+  {
+    "ref": "refs/tags/v0.4.1",
+    "node_id": "MDM6UmVmNDk5NzY5Mzk6djAuNC4x",
+    "url": "https://api.github.com/repos/learningequality/kolibri/git/refs/tags/v0.4.1",
+    "object": {
+      "sha": "dbbe9db24860cad1fcba22f2e08e501690f2038f",
+      "type": "commit",
+      "url": "https://api.github.com/repos/learningequality/kolibri/git/commits/dbbe9db24860cad1fcba22f2e08e501690f2038f"
+    }
+  },
+  {
+    "ref": "refs/tags/v0.4.2",
+    "node_id": "MDM6UmVmNDk5NzY5Mzk6djAuNC4y",
+    "url": "https://api.github.com/repos/learningequality/kolibri/git/refs/tags/v0.4.2",
+    "object": {
+      "sha": "70f14fb50552d5fb10f9215c4a1e01853f409d2d",
+      "type": "commit",
+      "url": "https://api.github.com/repos/learningequality/kolibri/git/commits/70f14fb50552d5fb10f9215c4a1e01853f409d2d"
+    }
+  },
+  {
+    "ref": "refs/tags/v0.4.3",
+    "node_id": "MDM6UmVmNDk5NzY5Mzk6djAuNC4z",
+    "url": "https://api.github.com/repos/learningequality/kolibri/git/refs/tags/v0.4.3",
+    "object": {
+      "sha": "2d8f469eebaa07288872f97966ab2e09ead9ea88",
+      "type": "commit",
+      "url": "https://api.github.com/repos/learningequality/kolibri/git/commits/2d8f469eebaa07288872f97966ab2e09ead9ea88"
+    }
+  },
+  {
+    "ref": "refs/tags/v0.4.4",
+    "node_id": "MDM6UmVmNDk5NzY5Mzk6djAuNC40",
+    "url": "https://api.github.com/repos/learningequality/kolibri/git/refs/tags/v0.4.4",
+    "object": {
+      "sha": "ec01e3e5f9736697f42e4dccd5959172dc64b56c",
+      "type": "commit",
+      "url": "https://api.github.com/repos/learningequality/kolibri/git/commits/ec01e3e5f9736697f42e4dccd5959172dc64b56c"
+    }
+  },
+  {
+    "ref": "refs/tags/v0.4.5",
+    "node_id": "MDM6UmVmNDk5NzY5Mzk6djAuNC41",
+    "url": "https://api.github.com/repos/learningequality/kolibri/git/refs/tags/v0.4.5",
+    "object": {
+      "sha": "760decf163190ef16aa42dc7bf18a25ceb1740c7",
+      "type": "commit",
+      "url": "https://api.github.com/repos/learningequality/kolibri/git/commits/760decf163190ef16aa42dc7bf18a25ceb1740c7"
+    }
+  },
+  {
+    "ref": "refs/tags/v0.4.6-beta1",
+    "node_id": "MDM6UmVmNDk5NzY5Mzk6djAuNC42LWJldGEx",
+    "url": "https://api.github.com/repos/learningequality/kolibri/git/refs/tags/v0.4.6-beta1",
+    "object": {
+      "sha": "7c10d2ac17696f61a5d97d20d08fc079f3c63d75",
+      "type": "commit",
+      "url": "https://api.github.com/repos/learningequality/kolibri/git/commits/7c10d2ac17696f61a5d97d20d08fc079f3c63d75"
+    }
+  },
+  {
+    "ref": "refs/tags/v0.4.6",
+    "node_id": "MDM6UmVmNDk5NzY5Mzk6djAuNC42",
+    "url": "https://api.github.com/repos/learningequality/kolibri/git/refs/tags/v0.4.6",
+    "object": {
+      "sha": "5badcd13fa0d30410c0b3fd79a8945d1b629ab8f",
+      "type": "commit",
+      "url": "https://api.github.com/repos/learningequality/kolibri/git/commits/5badcd13fa0d30410c0b3fd79a8945d1b629ab8f"
+    }
+  },
+  {
+    "ref": "refs/tags/v0.4.7",
+    "node_id": "MDM6UmVmNDk5NzY5Mzk6djAuNC43",
+    "url": "https://api.github.com/repos/learningequality/kolibri/git/refs/tags/v0.4.7",
+    "object": {
+      "sha": "fe5f1a9e686f0c7ba939aafdbb12d6782b689ac7",
+      "type": "commit",
+      "url": "https://api.github.com/repos/learningequality/kolibri/git/commits/fe5f1a9e686f0c7ba939aafdbb12d6782b689ac7"
+    }
+  },
+  {
+    "ref": "refs/tags/v0.4.8",
+    "node_id": "MDM6UmVmNDk5NzY5Mzk6djAuNC44",
+    "url": "https://api.github.com/repos/learningequality/kolibri/git/refs/tags/v0.4.8",
+    "object": {
+      "sha": "f85542a3e8918ac16beec42ad5bde43dfb5ec246",
+      "type": "commit",
+      "url": "https://api.github.com/repos/learningequality/kolibri/git/commits/f85542a3e8918ac16beec42ad5bde43dfb5ec246"
+    }
+  },
+  {
+    "ref": "refs/tags/v0.4.9",
+    "node_id": "MDM6UmVmNDk5NzY5Mzk6djAuNC45",
+    "url": "https://api.github.com/repos/learningequality/kolibri/git/refs/tags/v0.4.9",
+    "object": {
+      "sha": "9136a1f3a98fb13a74d5551922147abfa5303a5d",
+      "type": "commit",
+      "url": "https://api.github.com/repos/learningequality/kolibri/git/commits/9136a1f3a98fb13a74d5551922147abfa5303a5d"
+    }
+  },
+  {
+    "ref": "refs/tags/v0.5.0-beta1",
+    "node_id": "MDM6UmVmNDk5NzY5Mzk6djAuNS4wLWJldGEx",
+    "url": "https://api.github.com/repos/learningequality/kolibri/git/refs/tags/v0.5.0-beta1",
+    "object": {
+      "sha": "776576f4206b469157cfc78446ef08c76a1767e1",
+      "type": "commit",
+      "url": "https://api.github.com/repos/learningequality/kolibri/git/commits/776576f4206b469157cfc78446ef08c76a1767e1"
+    }
+  },
+  {
+    "ref": "refs/tags/v0.5.0-beta2",
+    "node_id": "MDM6UmVmNDk5NzY5Mzk6djAuNS4wLWJldGEy",
+    "url": "https://api.github.com/repos/learningequality/kolibri/git/refs/tags/v0.5.0-beta2",
+    "object": {
+      "sha": "d5f4e10e06ef0c64539c8dde382550eb0605719e",
+      "type": "commit",
+      "url": "https://api.github.com/repos/learningequality/kolibri/git/commits/d5f4e10e06ef0c64539c8dde382550eb0605719e"
+    }
+  },
+  {
+    "ref": "refs/tags/v0.5.0-beta3",
+    "node_id": "MDM6UmVmNDk5NzY5Mzk6djAuNS4wLWJldGEz",
+    "url": "https://api.github.com/repos/learningequality/kolibri/git/refs/tags/v0.5.0-beta3",
+    "object": {
+      "sha": "86a7758264aaf00a610f193d499eda9a258fe5a7",
+      "type": "commit",
+      "url": "https://api.github.com/repos/learningequality/kolibri/git/commits/86a7758264aaf00a610f193d499eda9a258fe5a7"
+    }
+  },
+  {
+    "ref": "refs/tags/v0.5.0-beta4",
+    "node_id": "MDM6UmVmNDk5NzY5Mzk6djAuNS4wLWJldGE0",
+    "url": "https://api.github.com/repos/learningequality/kolibri/git/refs/tags/v0.5.0-beta4",
+    "object": {
+      "sha": "9e12a26dae1b9476c041d1c66aef1aa5e6fd99a8",
+      "type": "commit",
+      "url": "https://api.github.com/repos/learningequality/kolibri/git/commits/9e12a26dae1b9476c041d1c66aef1aa5e6fd99a8"
+    }
+  },
+  {
+    "ref": "refs/tags/v0.5.0-beta5",
+    "node_id": "MDM6UmVmNDk5NzY5Mzk6djAuNS4wLWJldGE1",
+    "url": "https://api.github.com/repos/learningequality/kolibri/git/refs/tags/v0.5.0-beta5",
+    "object": {
+      "sha": "2f5525d9d645629271c93f7db5161b37db406716",
+      "type": "commit",
+      "url": "https://api.github.com/repos/learningequality/kolibri/git/commits/2f5525d9d645629271c93f7db5161b37db406716"
+    }
+  },
+  {
+    "ref": "refs/tags/v0.5.0-beta6",
+    "node_id": "MDM6UmVmNDk5NzY5Mzk6djAuNS4wLWJldGE2",
+    "url": "https://api.github.com/repos/learningequality/kolibri/git/refs/tags/v0.5.0-beta6",
+    "object": {
+      "sha": "5d5ed985415a2a1f083311b2bd0a36f0462b790b",
+      "type": "commit",
+      "url": "https://api.github.com/repos/learningequality/kolibri/git/commits/5d5ed985415a2a1f083311b2bd0a36f0462b790b"
+    }
+  },
+  {
+    "ref": "refs/tags/v0.5.0-beta7",
+    "node_id": "MDM6UmVmNDk5NzY5Mzk6djAuNS4wLWJldGE3",
+    "url": "https://api.github.com/repos/learningequality/kolibri/git/refs/tags/v0.5.0-beta7",
+    "object": {
+      "sha": "e1b72fce55c67baa98693dd6359ee1b8222479f4",
+      "type": "commit",
+      "url": "https://api.github.com/repos/learningequality/kolibri/git/commits/e1b72fce55c67baa98693dd6359ee1b8222479f4"
+    }
+  },
+  {
+    "ref": "refs/tags/v0.5.0-beta8",
+    "node_id": "MDM6UmVmNDk5NzY5Mzk6djAuNS4wLWJldGE4",
+    "url": "https://api.github.com/repos/learningequality/kolibri/git/refs/tags/v0.5.0-beta8",
+    "object": {
+      "sha": "198536a1a88a0c50c1f6a459366a3f0a89266405",
+      "type": "commit",
+      "url": "https://api.github.com/repos/learningequality/kolibri/git/commits/198536a1a88a0c50c1f6a459366a3f0a89266405"
+    }
+  },
+  {
+    "ref": "refs/tags/v0.5.0-beta9",
+    "node_id": "MDM6UmVmNDk5NzY5Mzk6djAuNS4wLWJldGE5",
+    "url": "https://api.github.com/repos/learningequality/kolibri/git/refs/tags/v0.5.0-beta9",
+    "object": {
+      "sha": "0da37f76c6a3e7abf47b76a6ba0f17940d2c0ed2",
+      "type": "commit",
+      "url": "https://api.github.com/repos/learningequality/kolibri/git/commits/0da37f76c6a3e7abf47b76a6ba0f17940d2c0ed2"
+    }
+  },
+  {
+    "ref": "refs/tags/v0.5.0-beta10",
+    "node_id": "MDM6UmVmNDk5NzY5Mzk6djAuNS4wLWJldGExMA==",
+    "url": "https://api.github.com/repos/learningequality/kolibri/git/refs/tags/v0.5.0-beta10",
+    "object": {
+      "sha": "6e19d876db05cb3b9de461eb54ad2e8ec925cf2b",
+      "type": "commit",
+      "url": "https://api.github.com/repos/learningequality/kolibri/git/commits/6e19d876db05cb3b9de461eb54ad2e8ec925cf2b"
+    }
+  },
+  {
+    "ref": "refs/tags/v0.5.0-beta11",
+    "node_id": "MDM6UmVmNDk5NzY5Mzk6djAuNS4wLWJldGExMQ==",
+    "url": "https://api.github.com/repos/learningequality/kolibri/git/refs/tags/v0.5.0-beta11",
+    "object": {
+      "sha": "035594b901c21d2a7b3256def2422929af7cf59a",
+      "type": "commit",
+      "url": "https://api.github.com/repos/learningequality/kolibri/git/commits/035594b901c21d2a7b3256def2422929af7cf59a"
+    }
+  },
+  {
+    "ref": "refs/tags/v0.5.0",
+    "node_id": "MDM6UmVmNDk5NzY5Mzk6djAuNS4w",
+    "url": "https://api.github.com/repos/learningequality/kolibri/git/refs/tags/v0.5.0",
+    "object": {
+      "sha": "035594b901c21d2a7b3256def2422929af7cf59a",
+      "type": "commit",
+      "url": "https://api.github.com/repos/learningequality/kolibri/git/commits/035594b901c21d2a7b3256def2422929af7cf59a"
+    }
+  },
+  {
+    "ref": "refs/tags/v0.5.1",
+    "node_id": "MDM6UmVmNDk5NzY5Mzk6djAuNS4x",
+    "url": "https://api.github.com/repos/learningequality/kolibri/git/refs/tags/v0.5.1",
+    "object": {
+      "sha": "3176aa4f10ca1d48355d2e87ebf136b3f71c4018",
+      "type": "commit",
+      "url": "https://api.github.com/repos/learningequality/kolibri/git/commits/3176aa4f10ca1d48355d2e87ebf136b3f71c4018"
+    }
+  },
+  {
+    "ref": "refs/tags/v0.5.2",
+    "node_id": "MDM6UmVmNDk5NzY5Mzk6djAuNS4y",
+    "url": "https://api.github.com/repos/learningequality/kolibri/git/refs/tags/v0.5.2",
+    "object": {
+      "sha": "4944d935c3dcf3baa7422a6e64169e3a8745d630",
+      "type": "commit",
+      "url": "https://api.github.com/repos/learningequality/kolibri/git/commits/4944d935c3dcf3baa7422a6e64169e3a8745d630"
+    }
+  },
+  {
+    "ref": "refs/tags/v0.5.3",
+    "node_id": "MDM6UmVmNDk5NzY5Mzk6djAuNS4z",
+    "url": "https://api.github.com/repos/learningequality/kolibri/git/refs/tags/v0.5.3",
+    "object": {
+      "sha": "580414007981b9134871730bbea3b1aa50d9516e",
+      "type": "commit",
+      "url": "https://api.github.com/repos/learningequality/kolibri/git/commits/580414007981b9134871730bbea3b1aa50d9516e"
+    }
+  },
+  {
+    "ref": "refs/tags/v0.6.0-alpha1",
+    "node_id": "MDM6UmVmNDk5NzY5Mzk6djAuNi4wLWFscGhhMQ==",
+    "url": "https://api.github.com/repos/learningequality/kolibri/git/refs/tags/v0.6.0-alpha1",
+    "object": {
+      "sha": "5bb5ffc2e813f75a39733966b869d5218a16fdb0",
+      "type": "commit",
+      "url": "https://api.github.com/repos/learningequality/kolibri/git/commits/5bb5ffc2e813f75a39733966b869d5218a16fdb0"
+    }
+  },
+  {
+    "ref": "refs/tags/v0.6.0-beta1",
+    "node_id": "MDM6UmVmNDk5NzY5Mzk6djAuNi4wLWJldGEx",
+    "url": "https://api.github.com/repos/learningequality/kolibri/git/refs/tags/v0.6.0-beta1",
+    "object": {
+      "sha": "9be3e09f087998c126257bfb0b9f620ac9510fb8",
+      "type": "commit",
+      "url": "https://api.github.com/repos/learningequality/kolibri/git/commits/9be3e09f087998c126257bfb0b9f620ac9510fb8"
+    }
+  },
+  {
+    "ref": "refs/tags/v0.6.0-beta2",
+    "node_id": "MDM6UmVmNDk5NzY5Mzk6djAuNi4wLWJldGEy",
+    "url": "https://api.github.com/repos/learningequality/kolibri/git/refs/tags/v0.6.0-beta2",
+    "object": {
+      "sha": "f7acf7667139119444935897e39a22836f758cb5",
+      "type": "commit",
+      "url": "https://api.github.com/repos/learningequality/kolibri/git/commits/f7acf7667139119444935897e39a22836f758cb5"
+    }
+  },
+  {
+    "ref": "refs/tags/v0.6.0-beta3",
+    "node_id": "MDM6UmVmNDk5NzY5Mzk6djAuNi4wLWJldGEz",
+    "url": "https://api.github.com/repos/learningequality/kolibri/git/refs/tags/v0.6.0-beta3",
+    "object": {
+      "sha": "9ae52f66977590f59ba0c641e97b9fda9e186b7f",
+      "type": "commit",
+      "url": "https://api.github.com/repos/learningequality/kolibri/git/commits/9ae52f66977590f59ba0c641e97b9fda9e186b7f"
+    }
+  },
+  {
+    "ref": "refs/tags/v0.6.0-beta4",
+    "node_id": "MDM6UmVmNDk5NzY5Mzk6djAuNi4wLWJldGE0",
+    "url": "https://api.github.com/repos/learningequality/kolibri/git/refs/tags/v0.6.0-beta4",
+    "object": {
+      "sha": "c21c9b755f19ccfb925a333bc98496ac5d284aaa",
+      "type": "commit",
+      "url": "https://api.github.com/repos/learningequality/kolibri/git/commits/c21c9b755f19ccfb925a333bc98496ac5d284aaa"
+    }
+  },
+  {
+    "ref": "refs/tags/v0.6.0",
+    "node_id": "MDM6UmVmNDk5NzY5Mzk6djAuNi4w",
+    "url": "https://api.github.com/repos/learningequality/kolibri/git/refs/tags/v0.6.0",
+    "object": {
+      "sha": "35399a826a9e22069415644bce3c9e1ccd91c3d7",
+      "type": "commit",
+      "url": "https://api.github.com/repos/learningequality/kolibri/git/commits/35399a826a9e22069415644bce3c9e1ccd91c3d7"
+    }
+  },
+  {
+    "ref": "refs/tags/v0.6.1-beta1",
+    "node_id": "MDM6UmVmNDk5NzY5Mzk6djAuNi4xLWJldGEx",
+    "url": "https://api.github.com/repos/learningequality/kolibri/git/refs/tags/v0.6.1-beta1",
+    "object": {
+      "sha": "95cc52c196772bbd1acc32cf3de0ed467dcb0eaa",
+      "type": "commit",
+      "url": "https://api.github.com/repos/learningequality/kolibri/git/commits/95cc52c196772bbd1acc32cf3de0ed467dcb0eaa"
+    }
+  },
+  {
+    "ref": "refs/tags/v0.6.1-beta2",
+    "node_id": "MDM6UmVmNDk5NzY5Mzk6djAuNi4xLWJldGEy",
+    "url": "https://api.github.com/repos/learningequality/kolibri/git/refs/tags/v0.6.1-beta2",
+    "object": {
+      "sha": "d72d1ae35e258d7b880054f0f53d2366495f8bdd",
+      "type": "commit",
+      "url": "https://api.github.com/repos/learningequality/kolibri/git/commits/d72d1ae35e258d7b880054f0f53d2366495f8bdd"
+    }
+  },
+  {
+    "ref": "refs/tags/v0.6.1",
+    "node_id": "MDM6UmVmNDk5NzY5Mzk6djAuNi4x",
+    "url": "https://api.github.com/repos/learningequality/kolibri/git/refs/tags/v0.6.1",
+    "object": {
+      "sha": "798e311ab067ea3660abfb20923540ffda8ca8e7",
+      "type": "commit",
+      "url": "https://api.github.com/repos/learningequality/kolibri/git/commits/798e311ab067ea3660abfb20923540ffda8ca8e7"
+    }
+  },
+  {
+    "ref": "refs/tags/v0.6.2",
+    "node_id": "MDM6UmVmNDk5NzY5Mzk6djAuNi4y",
+    "url": "https://api.github.com/repos/learningequality/kolibri/git/refs/tags/v0.6.2",
+    "object": {
+      "sha": "0c462484c0b05aaa581140c4283eb302bf3152c7",
+      "type": "commit",
+      "url": "https://api.github.com/repos/learningequality/kolibri/git/commits/0c462484c0b05aaa581140c4283eb302bf3152c7"
+    }
+  },
+  {
+    "ref": "refs/tags/v0.6.3-beta1",
+    "node_id": "MDM6UmVmNDk5NzY5Mzk6djAuNi4zLWJldGEx",
+    "url": "https://api.github.com/repos/learningequality/kolibri/git/refs/tags/v0.6.3-beta1",
+    "object": {
+      "sha": "7e9d480e936ba8cbfe11e1e7c8871c18f56ac5c2",
+      "type": "commit",
+      "url": "https://api.github.com/repos/learningequality/kolibri/git/commits/7e9d480e936ba8cbfe11e1e7c8871c18f56ac5c2"
+    }
+  },
+  {
+    "ref": "refs/tags/v0.6.3",
+    "node_id": "MDM6UmVmNDk5NzY5Mzk6djAuNi4z",
+    "url": "https://api.github.com/repos/learningequality/kolibri/git/refs/tags/v0.6.3",
+    "object": {
+      "sha": "466db9237da8739266016fafa802361c5aa00220",
+      "type": "commit",
+      "url": "https://api.github.com/repos/learningequality/kolibri/git/commits/466db9237da8739266016fafa802361c5aa00220"
+    }
+  },
+  {
+    "ref": "refs/tags/v0.6.4-beta1",
+    "node_id": "MDM6UmVmNDk5NzY5Mzk6djAuNi40LWJldGEx",
+    "url": "https://api.github.com/repos/learningequality/kolibri/git/refs/tags/v0.6.4-beta1",
+    "object": {
+      "sha": "357ce5ee5032169be511bf87c28242243b8001fc",
+      "type": "commit",
+      "url": "https://api.github.com/repos/learningequality/kolibri/git/commits/357ce5ee5032169be511bf87c28242243b8001fc"
+    }
+  },
+  {
+    "ref": "refs/tags/v0.7.0-beta1",
+    "node_id": "MDM6UmVmNDk5NzY5Mzk6djAuNy4wLWJldGEx",
+    "url": "https://api.github.com/repos/learningequality/kolibri/git/refs/tags/v0.7.0-beta1",
+    "object": {
+      "sha": "7121c9a88a18ac657a63eb3a4ffb0088da2449ac",
+      "type": "commit",
+      "url": "https://api.github.com/repos/learningequality/kolibri/git/commits/7121c9a88a18ac657a63eb3a4ffb0088da2449ac"
+    }
+  },
+  {
+    "ref": "refs/tags/v0.7.0-beta2",
+    "node_id": "MDM6UmVmNDk5NzY5Mzk6djAuNy4wLWJldGEy",
+    "url": "https://api.github.com/repos/learningequality/kolibri/git/refs/tags/v0.7.0-beta2",
+    "object": {
+      "sha": "c0821f1bdf4e67902ccb77302bbcbf1b661f0d26",
+      "type": "commit",
+      "url": "https://api.github.com/repos/learningequality/kolibri/git/commits/c0821f1bdf4e67902ccb77302bbcbf1b661f0d26"
+    }
+  },
+  {
+    "ref": "refs/tags/v0.7.0-beta3",
+    "node_id": "MDM6UmVmNDk5NzY5Mzk6djAuNy4wLWJldGEz",
+    "url": "https://api.github.com/repos/learningequality/kolibri/git/refs/tags/v0.7.0-beta3",
+    "object": {
+      "sha": "47644f889064d4614e95879ed4144a181b5849f3",
+      "type": "commit",
+      "url": "https://api.github.com/repos/learningequality/kolibri/git/commits/47644f889064d4614e95879ed4144a181b5849f3"
+    }
+  },
+  {
+    "ref": "refs/tags/v0.7.0-beta4",
+    "node_id": "MDM6UmVmNDk5NzY5Mzk6djAuNy4wLWJldGE0",
+    "url": "https://api.github.com/repos/learningequality/kolibri/git/refs/tags/v0.7.0-beta4",
+    "object": {
+      "sha": "b5f5f5dcbb4396623cc48b3509b989a124469aa5",
+      "type": "commit",
+      "url": "https://api.github.com/repos/learningequality/kolibri/git/commits/b5f5f5dcbb4396623cc48b3509b989a124469aa5"
+    }
+  },
+  {
+    "ref": "refs/tags/v0.7.0-beta5",
+    "node_id": "MDM6UmVmNDk5NzY5Mzk6djAuNy4wLWJldGE1",
+    "url": "https://api.github.com/repos/learningequality/kolibri/git/refs/tags/v0.7.0-beta5",
+    "object": {
+      "sha": "49c723ac68c0c4dabed9234b5ded256a0c71ca88",
+      "type": "commit",
+      "url": "https://api.github.com/repos/learningequality/kolibri/git/commits/49c723ac68c0c4dabed9234b5ded256a0c71ca88"
+    }
+  },
+  {
+    "ref": "refs/tags/v0.7.0-beta6",
+    "node_id": "MDM6UmVmNDk5NzY5Mzk6djAuNy4wLWJldGE2",
+    "url": "https://api.github.com/repos/learningequality/kolibri/git/refs/tags/v0.7.0-beta6",
+    "object": {
+      "sha": "47672333c821c4f122e97aa2616adcb9290e2b82",
+      "type": "commit",
+      "url": "https://api.github.com/repos/learningequality/kolibri/git/commits/47672333c821c4f122e97aa2616adcb9290e2b82"
+    }
+  },
+  {
+    "ref": "refs/tags/v0.7.0-beta7",
+    "node_id": "MDM6UmVmNDk5NzY5Mzk6djAuNy4wLWJldGE3",
+    "url": "https://api.github.com/repos/learningequality/kolibri/git/refs/tags/v0.7.0-beta7",
+    "object": {
+      "sha": "503a175bb68b81fd9118bbf4bdeb63786e86bc56",
+      "type": "commit",
+      "url": "https://api.github.com/repos/learningequality/kolibri/git/commits/503a175bb68b81fd9118bbf4bdeb63786e86bc56"
+    }
+  },
+  {
+    "ref": "refs/tags/v0.7.0-beta8",
+    "node_id": "MDM6UmVmNDk5NzY5Mzk6djAuNy4wLWJldGE4",
+    "url": "https://api.github.com/repos/learningequality/kolibri/git/refs/tags/v0.7.0-beta8",
+    "object": {
+      "sha": "b9b8f0e5b4974861a7ce981ca25625bbdf45d34c",
+      "type": "commit",
+      "url": "https://api.github.com/repos/learningequality/kolibri/git/commits/b9b8f0e5b4974861a7ce981ca25625bbdf45d34c"
+    }
+  },
+  {
+    "ref": "refs/tags/v0.7.0",
+    "node_id": "MDM6UmVmNDk5NzY5Mzk6djAuNy4w",
+    "url": "https://api.github.com/repos/learningequality/kolibri/git/refs/tags/v0.7.0",
+    "object": {
+      "sha": "b9b8f0e5b4974861a7ce981ca25625bbdf45d34c",
+      "type": "commit",
+      "url": "https://api.github.com/repos/learningequality/kolibri/git/commits/b9b8f0e5b4974861a7ce981ca25625bbdf45d34c"
+    }
+  },
+  {
+    "ref": "refs/tags/v0.7.1-beta1",
+    "node_id": "MDM6UmVmNDk5NzY5Mzk6djAuNy4xLWJldGEx",
+    "url": "https://api.github.com/repos/learningequality/kolibri/git/refs/tags/v0.7.1-beta1",
+    "object": {
+      "sha": "63a2ff2a195baaad63bfda151349f4014e32e2c7",
+      "type": "commit",
+      "url": "https://api.github.com/repos/learningequality/kolibri/git/commits/63a2ff2a195baaad63bfda151349f4014e32e2c7"
+    }
+  },
+  {
+    "ref": "refs/tags/v0.7.1",
+    "node_id": "MDM6UmVmNDk5NzY5Mzk6djAuNy4x",
+    "url": "https://api.github.com/repos/learningequality/kolibri/git/refs/tags/v0.7.1",
+    "object": {
+      "sha": "42c884282c14cf7fe777ea2970d49d22a19a9e19",
+      "type": "commit",
+      "url": "https://api.github.com/repos/learningequality/kolibri/git/commits/42c884282c14cf7fe777ea2970d49d22a19a9e19"
+    }
+  },
+  {
+    "ref": "refs/tags/v0.7.2-beta1",
+    "node_id": "MDM6UmVmNDk5NzY5Mzk6djAuNy4yLWJldGEx",
+    "url": "https://api.github.com/repos/learningequality/kolibri/git/refs/tags/v0.7.2-beta1",
+    "object": {
+      "sha": "3c9aedbb3e05d6d56203663e1956806ca6aa4221",
+      "type": "commit",
+      "url": "https://api.github.com/repos/learningequality/kolibri/git/commits/3c9aedbb3e05d6d56203663e1956806ca6aa4221"
+    }
+  },
+  {
+    "ref": "refs/tags/v0.7.2-beta2",
+    "node_id": "MDM6UmVmNDk5NzY5Mzk6djAuNy4yLWJldGEy",
+    "url": "https://api.github.com/repos/learningequality/kolibri/git/refs/tags/v0.7.2-beta2",
+    "object": {
+      "sha": "4cae7c1708ef965628fbd676ebc382d4c4d5c83e",
+      "type": "commit",
+      "url": "https://api.github.com/repos/learningequality/kolibri/git/commits/4cae7c1708ef965628fbd676ebc382d4c4d5c83e"
+    }
+  },
+  {
+    "ref": "refs/tags/v0.7.2",
+    "node_id": "MDM6UmVmNDk5NzY5Mzk6djAuNy4y",
+    "url": "https://api.github.com/repos/learningequality/kolibri/git/refs/tags/v0.7.2",
+    "object": {
+      "sha": "87d29301bcafd25a613384b280c26c0d63ff7c37",
+      "type": "commit",
+      "url": "https://api.github.com/repos/learningequality/kolibri/git/commits/87d29301bcafd25a613384b280c26c0d63ff7c37"
+    }
+  },
+  {
+    "ref": "refs/tags/v0.8.0-beta0",
+    "node_id": "MDM6UmVmNDk5NzY5Mzk6djAuOC4wLWJldGEw",
+    "url": "https://api.github.com/repos/learningequality/kolibri/git/refs/tags/v0.8.0-beta0",
+    "object": {
+      "sha": "f41cc37b92fa84bece008c9f6c9461c2cfc4f0f3",
+      "type": "commit",
+      "url": "https://api.github.com/repos/learningequality/kolibri/git/commits/f41cc37b92fa84bece008c9f6c9461c2cfc4f0f3"
+    }
+  },
+  {
+    "ref": "refs/tags/v0.8.0-beta1",
+    "node_id": "MDM6UmVmNDk5NzY5Mzk6djAuOC4wLWJldGEx",
+    "url": "https://api.github.com/repos/learningequality/kolibri/git/refs/tags/v0.8.0-beta1",
+    "object": {
+      "sha": "4f8db2e95a741fa4dae79c1e1660ce4717b471a3",
+      "type": "commit",
+      "url": "https://api.github.com/repos/learningequality/kolibri/git/commits/4f8db2e95a741fa4dae79c1e1660ce4717b471a3"
+    }
+  },
+  {
+    "ref": "refs/tags/v0.8.0-beta2",
+    "node_id": "MDM6UmVmNDk5NzY5Mzk6djAuOC4wLWJldGEy",
+    "url": "https://api.github.com/repos/learningequality/kolibri/git/refs/tags/v0.8.0-beta2",
+    "object": {
+      "sha": "eb6ed2926608bf5161b12daa439bbeda21832762",
+      "type": "commit",
+      "url": "https://api.github.com/repos/learningequality/kolibri/git/commits/eb6ed2926608bf5161b12daa439bbeda21832762"
+    }
+  },
+  {
+    "ref": "refs/tags/v0.8.0-beta3",
+    "node_id": "MDM6UmVmNDk5NzY5Mzk6djAuOC4wLWJldGEz",
+    "url": "https://api.github.com/repos/learningequality/kolibri/git/refs/tags/v0.8.0-beta3",
+    "object": {
+      "sha": "34ca913bb0ec9ac72e65addd373c08d318b590d4",
+      "type": "commit",
+      "url": "https://api.github.com/repos/learningequality/kolibri/git/commits/34ca913bb0ec9ac72e65addd373c08d318b590d4"
+    }
+  },
+  {
+    "ref": "refs/tags/v0.8.0-beta4",
+    "node_id": "MDM6UmVmNDk5NzY5Mzk6djAuOC4wLWJldGE0",
+    "url": "https://api.github.com/repos/learningequality/kolibri/git/refs/tags/v0.8.0-beta4",
+    "object": {
+      "sha": "d964dfcfb8539edc0228e1156019e0c1ceb7bbba",
+      "type": "commit",
+      "url": "https://api.github.com/repos/learningequality/kolibri/git/commits/d964dfcfb8539edc0228e1156019e0c1ceb7bbba"
+    }
+  },
+  {
+    "ref": "refs/tags/v0.8.0",
+    "node_id": "MDM6UmVmNDk5NzY5Mzk6djAuOC4w",
+    "url": "https://api.github.com/repos/learningequality/kolibri/git/refs/tags/v0.8.0",
+    "object": {
+      "sha": "62f0a010d9150a21bd1d4465cd1575ac81f83c8e",
+      "type": "commit",
+      "url": "https://api.github.com/repos/learningequality/kolibri/git/commits/62f0a010d9150a21bd1d4465cd1575ac81f83c8e"
+    }
+  },
+  {
+    "ref": "refs/tags/v0.9.0-beta1",
+    "node_id": "MDM6UmVmNDk5NzY5Mzk6djAuOS4wLWJldGEx",
+    "url": "https://api.github.com/repos/learningequality/kolibri/git/refs/tags/v0.9.0-beta1",
+    "object": {
+      "sha": "760ca4809259df4cf24d77385f35bf41ec1c5383",
+      "type": "commit",
+      "url": "https://api.github.com/repos/learningequality/kolibri/git/commits/760ca4809259df4cf24d77385f35bf41ec1c5383"
+    }
+  },
+  {
+    "ref": "refs/tags/v0.9.0-beta2",
+    "node_id": "MDM6UmVmNDk5NzY5Mzk6djAuOS4wLWJldGEy",
+    "url": "https://api.github.com/repos/learningequality/kolibri/git/refs/tags/v0.9.0-beta2",
+    "object": {
+      "sha": "0e7ee1689c1edfbb1a6e27343e9c5a7993b3b371",
+      "type": "commit",
+      "url": "https://api.github.com/repos/learningequality/kolibri/git/commits/0e7ee1689c1edfbb1a6e27343e9c5a7993b3b371"
+    }
+  },
+  {
+    "ref": "refs/tags/v0.9.0-beta3",
+    "node_id": "MDM6UmVmNDk5NzY5Mzk6djAuOS4wLWJldGEz",
+    "url": "https://api.github.com/repos/learningequality/kolibri/git/refs/tags/v0.9.0-beta3",
+    "object": {
+      "sha": "bd6161cd3684b1de18b83cc00198efc83dc37818",
+      "type": "commit",
+      "url": "https://api.github.com/repos/learningequality/kolibri/git/commits/bd6161cd3684b1de18b83cc00198efc83dc37818"
+    }
+  },
+  {
+    "ref": "refs/tags/v0.9.0",
+    "node_id": "MDM6UmVmNDk5NzY5Mzk6djAuOS4w",
+    "url": "https://api.github.com/repos/learningequality/kolibri/git/refs/tags/v0.9.0",
+    "object": {
+      "sha": "701b972788ebc74f19fa7cfe734e0d58aaeedd11",
+      "type": "commit",
+      "url": "https://api.github.com/repos/learningequality/kolibri/git/commits/701b972788ebc74f19fa7cfe734e0d58aaeedd11"
+    }
+  },
+  {
+    "ref": "refs/tags/v0.9.1-beta1",
+    "node_id": "MDM6UmVmNDk5NzY5Mzk6djAuOS4xLWJldGEx",
+    "url": "https://api.github.com/repos/learningequality/kolibri/git/refs/tags/v0.9.1-beta1",
+    "object": {
+      "sha": "4ea23a87eae5e2f073a1fd67db76ed404d7ea0d0",
+      "type": "commit",
+      "url": "https://api.github.com/repos/learningequality/kolibri/git/commits/4ea23a87eae5e2f073a1fd67db76ed404d7ea0d0"
+    }
+  },
+  {
+    "ref": "refs/tags/v0.9.1-beta2",
+    "node_id": "MDM6UmVmNDk5NzY5Mzk6djAuOS4xLWJldGEy",
+    "url": "https://api.github.com/repos/learningequality/kolibri/git/refs/tags/v0.9.1-beta2",
+    "object": {
+      "sha": "401f4e9bc78492f996c3dedbe08d262d44162064",
+      "type": "commit",
+      "url": "https://api.github.com/repos/learningequality/kolibri/git/commits/401f4e9bc78492f996c3dedbe08d262d44162064"
+    }
+  },
+  {
+    "ref": "refs/tags/v0.9.1-beta3",
+    "node_id": "MDM6UmVmNDk5NzY5Mzk6djAuOS4xLWJldGEz",
+    "url": "https://api.github.com/repos/learningequality/kolibri/git/refs/tags/v0.9.1-beta3",
+    "object": {
+      "sha": "1923e8723b0f1efc6f750d2c318e5ad2bbc7311f",
+      "type": "commit",
+      "url": "https://api.github.com/repos/learningequality/kolibri/git/commits/1923e8723b0f1efc6f750d2c318e5ad2bbc7311f"
+    }
+  },
+  {
+    "ref": "refs/tags/v0.9.1-beta4",
+    "node_id": "MDM6UmVmNDk5NzY5Mzk6djAuOS4xLWJldGE0",
+    "url": "https://api.github.com/repos/learningequality/kolibri/git/refs/tags/v0.9.1-beta4",
+    "object": {
+      "sha": "d3582ba6dc5c1c76ae1aa28b431d34de6c7eadfc",
+      "type": "commit",
+      "url": "https://api.github.com/repos/learningequality/kolibri/git/commits/d3582ba6dc5c1c76ae1aa28b431d34de6c7eadfc"
+    }
+  },
+  {
+    "ref": "refs/tags/v0.9.1",
+    "node_id": "MDM6UmVmNDk5NzY5Mzk6djAuOS4x",
+    "url": "https://api.github.com/repos/learningequality/kolibri/git/refs/tags/v0.9.1",
+    "object": {
+      "sha": "5e1868c43b0f4c2cc9fb2c38781b8fe718949c64",
+      "type": "commit",
+      "url": "https://api.github.com/repos/learningequality/kolibri/git/commits/5e1868c43b0f4c2cc9fb2c38781b8fe718949c64"
+    }
+  },
+  {
+    "ref": "refs/tags/v0.9.2-beta1",
+    "node_id": "MDM6UmVmNDk5NzY5Mzk6djAuOS4yLWJldGEx",
+    "url": "https://api.github.com/repos/learningequality/kolibri/git/refs/tags/v0.9.2-beta1",
+    "object": {
+      "sha": "0a7ab77332e5fb1279ac66beb831a0a0937b3f12",
+      "type": "commit",
+      "url": "https://api.github.com/repos/learningequality/kolibri/git/commits/0a7ab77332e5fb1279ac66beb831a0a0937b3f12"
+    }
+  },
+  {
+    "ref": "refs/tags/v0.9.2-beta2",
+    "node_id": "MDM6UmVmNDk5NzY5Mzk6djAuOS4yLWJldGEy",
+    "url": "https://api.github.com/repos/learningequality/kolibri/git/refs/tags/v0.9.2-beta2",
+    "object": {
+      "sha": "c2ea1a12643e0734b1488344992cf986ae7947d3",
+      "type": "commit",
+      "url": "https://api.github.com/repos/learningequality/kolibri/git/commits/c2ea1a12643e0734b1488344992cf986ae7947d3"
+    }
+  },
+  {
+    "ref": "refs/tags/v0.9.2-beta3",
+    "node_id": "MDM6UmVmNDk5NzY5Mzk6djAuOS4yLWJldGEz",
+    "url": "https://api.github.com/repos/learningequality/kolibri/git/refs/tags/v0.9.2-beta3",
+    "object": {
+      "sha": "e815e920c93d1ffebdac55e7cf28c979b97a7da2",
+      "type": "commit",
+      "url": "https://api.github.com/repos/learningequality/kolibri/git/commits/e815e920c93d1ffebdac55e7cf28c979b97a7da2"
+    }
+  },
+  {
+    "ref": "refs/tags/v0.9.2",
+    "node_id": "MDM6UmVmNDk5NzY5Mzk6djAuOS4y",
+    "url": "https://api.github.com/repos/learningequality/kolibri/git/refs/tags/v0.9.2",
+    "object": {
+      "sha": "61581c06db7cd57563f71620e9cd6a0190dde852",
+      "type": "commit",
+      "url": "https://api.github.com/repos/learningequality/kolibri/git/commits/61581c06db7cd57563f71620e9cd6a0190dde852"
+    }
+  },
+  {
+    "ref": "refs/tags/v0.9.3",
+    "node_id": "MDM6UmVmNDk5NzY5Mzk6djAuOS4z",
+    "url": "https://api.github.com/repos/learningequality/kolibri/git/refs/tags/v0.9.3",
+    "object": {
+      "sha": "28690d20ee13c3f411e64ab19f1c01addcba3c15",
+      "type": "commit",
+      "url": "https://api.github.com/repos/learningequality/kolibri/git/commits/28690d20ee13c3f411e64ab19f1c01addcba3c15"
+    }
+  },
+  {
+    "ref": "refs/tags/v0.9.4-beta1",
+    "node_id": "MDM6UmVmNDk5NzY5Mzk6djAuOS40LWJldGEx",
+    "url": "https://api.github.com/repos/learningequality/kolibri/git/refs/tags/v0.9.4-beta1",
+    "object": {
+      "sha": "2a4b39b5fd27fed5d2dc7fac06ef45d6821fff93",
+      "type": "commit",
+      "url": "https://api.github.com/repos/learningequality/kolibri/git/commits/2a4b39b5fd27fed5d2dc7fac06ef45d6821fff93"
+    }
+  },
+  {
+    "ref": "refs/tags/v0.9.4-beta2",
+    "node_id": "MDM6UmVmNDk5NzY5Mzk6djAuOS40LWJldGEy",
+    "url": "https://api.github.com/repos/learningequality/kolibri/git/refs/tags/v0.9.4-beta2",
+    "object": {
+      "sha": "a934909e999687e9ebff0c0764c4675690ae2870",
+      "type": "commit",
+      "url": "https://api.github.com/repos/learningequality/kolibri/git/commits/a934909e999687e9ebff0c0764c4675690ae2870"
+    }
+  },
+  {
+    "ref": "refs/tags/v0.9.4-beta3",
+    "node_id": "MDM6UmVmNDk5NzY5Mzk6djAuOS40LWJldGEz",
+    "url": "https://api.github.com/repos/learningequality/kolibri/git/refs/tags/v0.9.4-beta3",
+    "object": {
+      "sha": "1d6690e035218e8494f32cc4f9ec287d2d89662e",
+      "type": "commit",
+      "url": "https://api.github.com/repos/learningequality/kolibri/git/commits/1d6690e035218e8494f32cc4f9ec287d2d89662e"
+    }
+  },
+  {
+    "ref": "refs/tags/v0.9.4-beta4",
+    "node_id": "MDM6UmVmNDk5NzY5Mzk6djAuOS40LWJldGE0",
+    "url": "https://api.github.com/repos/learningequality/kolibri/git/refs/tags/v0.9.4-beta4",
+    "object": {
+      "sha": "8c5c3b9e1ac493e75a1cb07dde0e13d7c052ffb7",
+      "type": "commit",
+      "url": "https://api.github.com/repos/learningequality/kolibri/git/commits/8c5c3b9e1ac493e75a1cb07dde0e13d7c052ffb7"
+    }
+  },
+  {
+    "ref": "refs/tags/v0.9.4-beta5",
+    "node_id": "MDM6UmVmNDk5NzY5Mzk6djAuOS40LWJldGE1",
+    "url": "https://api.github.com/repos/learningequality/kolibri/git/refs/tags/v0.9.4-beta5",
+    "object": {
+      "sha": "d538976459d330e6b79006bc1c447dbfd3b4729e",
+      "type": "commit",
+      "url": "https://api.github.com/repos/learningequality/kolibri/git/commits/d538976459d330e6b79006bc1c447dbfd3b4729e"
+    }
+  },
+  {
+    "ref": "refs/tags/v0.9.4",
+    "node_id": "MDM6UmVmNDk5NzY5Mzk6djAuOS40",
+    "url": "https://api.github.com/repos/learningequality/kolibri/git/refs/tags/v0.9.4",
+    "object": {
+      "sha": "d538976459d330e6b79006bc1c447dbfd3b4729e",
+      "type": "commit",
+      "url": "https://api.github.com/repos/learningequality/kolibri/git/commits/d538976459d330e6b79006bc1c447dbfd3b4729e"
+    }
+  },
+  {
+    "ref": "refs/tags/v0.9.5-beta1",
+    "node_id": "MDM6UmVmNDk5NzY5Mzk6djAuOS41LWJldGEx",
+    "url": "https://api.github.com/repos/learningequality/kolibri/git/refs/tags/v0.9.5-beta1",
+    "object": {
+      "sha": "166369c9caab5759a1668868081c287451037265",
+      "type": "commit",
+      "url": "https://api.github.com/repos/learningequality/kolibri/git/commits/166369c9caab5759a1668868081c287451037265"
+    }
+  },
+  {
+    "ref": "refs/tags/v0.9.5-beta2",
+    "node_id": "MDM6UmVmNDk5NzY5Mzk6djAuOS41LWJldGEy",
+    "url": "https://api.github.com/repos/learningequality/kolibri/git/refs/tags/v0.9.5-beta2",
+    "object": {
+      "sha": "1223a57c5361f4c0087b21b828c704c15a49faed",
+      "type": "commit",
+      "url": "https://api.github.com/repos/learningequality/kolibri/git/commits/1223a57c5361f4c0087b21b828c704c15a49faed"
+    }
+  },
+  {
+    "ref": "refs/tags/v0.9.5-beta3",
+    "node_id": "MDM6UmVmNDk5NzY5Mzk6djAuOS41LWJldGEz",
+    "url": "https://api.github.com/repos/learningequality/kolibri/git/refs/tags/v0.9.5-beta3",
+    "object": {
+      "sha": "685390c84509cdb05d17ac393a5da77ba39f2911",
+      "type": "commit",
+      "url": "https://api.github.com/repos/learningequality/kolibri/git/commits/685390c84509cdb05d17ac393a5da77ba39f2911"
+    }
+  },
+  {
+    "ref": "refs/tags/v0.10.0-alpha1",
+    "node_id": "MDM6UmVmNDk5NzY5Mzk6djAuMTAuMC1hbHBoYTE=",
+    "url": "https://api.github.com/repos/learningequality/kolibri/git/refs/tags/v0.10.0-alpha1",
+    "object": {
+      "sha": "756e11c424a765ee1996efad689cb8e733fc62d5",
+      "type": "commit",
+      "url": "https://api.github.com/repos/learningequality/kolibri/git/commits/756e11c424a765ee1996efad689cb8e733fc62d5"
+    }
+  },
+  {
+    "ref": "refs/tags/v0.10.0-alpha2",
+    "node_id": "MDM6UmVmNDk5NzY5Mzk6djAuMTAuMC1hbHBoYTI=",
+    "url": "https://api.github.com/repos/learningequality/kolibri/git/refs/tags/v0.10.0-alpha2",
+    "object": {
+      "sha": "184a31493495060453984249803a20858c623155",
+      "type": "commit",
+      "url": "https://api.github.com/repos/learningequality/kolibri/git/commits/184a31493495060453984249803a20858c623155"
+    }
+  },
+  {
+    "ref": "refs/tags/v0.10.0-alpha3",
+    "node_id": "MDM6UmVmNDk5NzY5Mzk6djAuMTAuMC1hbHBoYTM=",
+    "url": "https://api.github.com/repos/learningequality/kolibri/git/refs/tags/v0.10.0-alpha3",
+    "object": {
+      "sha": "287b1b42294958cb17230d6ed85df4b3e076b003",
+      "type": "commit",
+      "url": "https://api.github.com/repos/learningequality/kolibri/git/commits/287b1b42294958cb17230d6ed85df4b3e076b003"
+    }
+  },
+  {
+    "ref": "refs/tags/v0.10.0-alpha4",
+    "node_id": "MDM6UmVmNDk5NzY5Mzk6djAuMTAuMC1hbHBoYTQ=",
+    "url": "https://api.github.com/repos/learningequality/kolibri/git/refs/tags/v0.10.0-alpha4",
+    "object": {
+      "sha": "c97c3ff064f8b47c92dbb30964b09960c91ea3ff",
+      "type": "commit",
+      "url": "https://api.github.com/repos/learningequality/kolibri/git/commits/c97c3ff064f8b47c92dbb30964b09960c91ea3ff"
+    }
+  },
+  {
+    "ref": "refs/tags/v0.10.0-beta1",
+    "node_id": "MDM6UmVmNDk5NzY5Mzk6djAuMTAuMC1iZXRhMQ==",
+    "url": "https://api.github.com/repos/learningequality/kolibri/git/refs/tags/v0.10.0-beta1",
+    "object": {
+      "sha": "831deed2adec9fa980a1935f364655cd86c1b6d5",
+      "type": "commit",
+      "url": "https://api.github.com/repos/learningequality/kolibri/git/commits/831deed2adec9fa980a1935f364655cd86c1b6d5"
+    }
+  },
+  {
+    "ref": "refs/tags/v0.10.0-beta2",
+    "node_id": "MDM6UmVmNDk5NzY5Mzk6djAuMTAuMC1iZXRhMg==",
+    "url": "https://api.github.com/repos/learningequality/kolibri/git/refs/tags/v0.10.0-beta2",
+    "object": {
+      "sha": "df12ba1572820271178df96f6895d00d459fad60",
+      "type": "commit",
+      "url": "https://api.github.com/repos/learningequality/kolibri/git/commits/df12ba1572820271178df96f6895d00d459fad60"
+    }
+  },
+  {
+    "ref": "refs/tags/v0.10.0-beta3",
+    "node_id": "MDM6UmVmNDk5NzY5Mzk6djAuMTAuMC1iZXRhMw==",
+    "url": "https://api.github.com/repos/learningequality/kolibri/git/refs/tags/v0.10.0-beta3",
+    "object": {
+      "sha": "14f5b06655ef0589e1f0ab782d29f9fbdf4dafc0",
+      "type": "commit",
+      "url": "https://api.github.com/repos/learningequality/kolibri/git/commits/14f5b06655ef0589e1f0ab782d29f9fbdf4dafc0"
+    }
+  },
+  {
+    "ref": "refs/tags/v0.10.0-beta4",
+    "node_id": "MDM6UmVmNDk5NzY5Mzk6djAuMTAuMC1iZXRhNA==",
+    "url": "https://api.github.com/repos/learningequality/kolibri/git/refs/tags/v0.10.0-beta4",
+    "object": {
+      "sha": "761004bc1916e01251046d3dde4b0e074ada9114",
+      "type": "commit",
+      "url": "https://api.github.com/repos/learningequality/kolibri/git/commits/761004bc1916e01251046d3dde4b0e074ada9114"
+    }
+  },
+  {
+    "ref": "refs/tags/v0.10.0-beta5",
+    "node_id": "MDM6UmVmNDk5NzY5Mzk6djAuMTAuMC1iZXRhNQ==",
+    "url": "https://api.github.com/repos/learningequality/kolibri/git/refs/tags/v0.10.0-beta5",
+    "object": {
+      "sha": "0af787438cf4108f7892627da26ff7ab0422c3a6",
+      "type": "commit",
+      "url": "https://api.github.com/repos/learningequality/kolibri/git/commits/0af787438cf4108f7892627da26ff7ab0422c3a6"
+    }
+  },
+  {
+    "ref": "refs/tags/v0.10.0-beta6",
+    "node_id": "MDM6UmVmNDk5NzY5Mzk6djAuMTAuMC1iZXRhNg==",
+    "url": "https://api.github.com/repos/learningequality/kolibri/git/refs/tags/v0.10.0-beta6",
+    "object": {
+      "sha": "79c1322ddfb496c9229e8bf7db336385ec484495",
+      "type": "commit",
+      "url": "https://api.github.com/repos/learningequality/kolibri/git/commits/79c1322ddfb496c9229e8bf7db336385ec484495"
+    }
+  },
+  {
+    "ref": "refs/tags/v0.10.0-beta7",
+    "node_id": "MDM6UmVmNDk5NzY5Mzk6djAuMTAuMC1iZXRhNw==",
+    "url": "https://api.github.com/repos/learningequality/kolibri/git/refs/tags/v0.10.0-beta7",
+    "object": {
+      "sha": "d73a3151dc36a4b9398bc39cae1eca6e57603e61",
+      "type": "commit",
+      "url": "https://api.github.com/repos/learningequality/kolibri/git/commits/d73a3151dc36a4b9398bc39cae1eca6e57603e61"
+    }
+  },
+  {
+    "ref": "refs/tags/v0.10.0-beta8",
+    "node_id": "MDM6UmVmNDk5NzY5Mzk6djAuMTAuMC1iZXRhOA==",
+    "url": "https://api.github.com/repos/learningequality/kolibri/git/refs/tags/v0.10.0-beta8",
+    "object": {
+      "sha": "c9ca8e31b4b3388f99abfa5638beee0dbbfccb77",
+      "type": "commit",
+      "url": "https://api.github.com/repos/learningequality/kolibri/git/commits/c9ca8e31b4b3388f99abfa5638beee0dbbfccb77"
+    }
+  },
+  {
+    "ref": "refs/tags/v0.10.0-beta9",
+    "node_id": "MDM6UmVmNDk5NzY5Mzk6djAuMTAuMC1iZXRhOQ==",
+    "url": "https://api.github.com/repos/learningequality/kolibri/git/refs/tags/v0.10.0-beta9",
+    "object": {
+      "sha": "6faab5839261edc2bc7dad87a6e4dc54a4ec7cc8",
+      "type": "commit",
+      "url": "https://api.github.com/repos/learningequality/kolibri/git/commits/6faab5839261edc2bc7dad87a6e4dc54a4ec7cc8"
+    }
+  },
+  {
+    "ref": "refs/tags/v0.10.0-beta10",
+    "node_id": "MDM6UmVmNDk5NzY5Mzk6djAuMTAuMC1iZXRhMTA=",
+    "url": "https://api.github.com/repos/learningequality/kolibri/git/refs/tags/v0.10.0-beta10",
+    "object": {
+      "sha": "cb6b10bcaec9773765341bf2c0192dd3b8b8c286",
+      "type": "commit",
+      "url": "https://api.github.com/repos/learningequality/kolibri/git/commits/cb6b10bcaec9773765341bf2c0192dd3b8b8c286"
+    }
+  },
+  {
+    "ref": "refs/tags/v0.10.0",
+    "node_id": "MDM6UmVmNDk5NzY5Mzk6djAuMTAuMA==",
+    "url": "https://api.github.com/repos/learningequality/kolibri/git/refs/tags/v0.10.0",
+    "object": {
+      "sha": "cc362f05817ec03df60b636ab325e787f1146aec",
+      "type": "commit",
+      "url": "https://api.github.com/repos/learningequality/kolibri/git/commits/cc362f05817ec03df60b636ab325e787f1146aec"
+    }
+  },
+  {
+    "ref": "refs/tags/v0.10.1-beta1",
+    "node_id": "MDM6UmVmNDk5NzY5Mzk6djAuMTAuMS1iZXRhMQ==",
+    "url": "https://api.github.com/repos/learningequality/kolibri/git/refs/tags/v0.10.1-beta1",
+    "object": {
+      "sha": "8dbb40321fd435fbaa5f474fbf8c83f7ec0ba879",
+      "type": "commit",
+      "url": "https://api.github.com/repos/learningequality/kolibri/git/commits/8dbb40321fd435fbaa5f474fbf8c83f7ec0ba879"
+    }
+  },
+  {
+    "ref": "refs/tags/v0.10.1-beta2",
+    "node_id": "MDM6UmVmNDk5NzY5Mzk6djAuMTAuMS1iZXRhMg==",
+    "url": "https://api.github.com/repos/learningequality/kolibri/git/refs/tags/v0.10.1-beta2",
+    "object": {
+      "sha": "43f398e7b8f2cafd866dcc9dcacd76aedff0537a",
+      "type": "commit",
+      "url": "https://api.github.com/repos/learningequality/kolibri/git/commits/43f398e7b8f2cafd866dcc9dcacd76aedff0537a"
+    }
+  },
+  {
+    "ref": "refs/tags/v0.10.1",
+    "node_id": "MDM6UmVmNDk5NzY5Mzk6djAuMTAuMQ==",
+    "url": "https://api.github.com/repos/learningequality/kolibri/git/refs/tags/v0.10.1",
+    "object": {
+      "sha": "31a0d851fd0746cdfdb81ea9f902ba3d825030b1",
+      "type": "commit",
+      "url": "https://api.github.com/repos/learningequality/kolibri/git/commits/31a0d851fd0746cdfdb81ea9f902ba3d825030b1"
+    }
+  },
+  {
+    "ref": "refs/tags/v0.10.2-beta1",
+    "node_id": "MDM6UmVmNDk5NzY5Mzk6djAuMTAuMi1iZXRhMQ==",
+    "url": "https://api.github.com/repos/learningequality/kolibri/git/refs/tags/v0.10.2-beta1",
+    "object": {
+      "sha": "589a2d6c65db8f059bfc76058d176cbc49e6cd9c",
+      "type": "commit",
+      "url": "https://api.github.com/repos/learningequality/kolibri/git/commits/589a2d6c65db8f059bfc76058d176cbc49e6cd9c"
+    }
+  },
+  {
+    "ref": "refs/tags/v0.10.2",
+    "node_id": "MDM6UmVmNDk5NzY5Mzk6djAuMTAuMg==",
+    "url": "https://api.github.com/repos/learningequality/kolibri/git/refs/tags/v0.10.2",
+    "object": {
+      "sha": "09e9b105f72e70a3ff70a81db5252a8701175f6e",
+      "type": "commit",
+      "url": "https://api.github.com/repos/learningequality/kolibri/git/commits/09e9b105f72e70a3ff70a81db5252a8701175f6e"
+    }
+  },
+  {
+    "ref": "refs/tags/v0.10.3-beta1",
+    "node_id": "MDM6UmVmNDk5NzY5Mzk6djAuMTAuMy1iZXRhMQ==",
+    "url": "https://api.github.com/repos/learningequality/kolibri/git/refs/tags/v0.10.3-beta1",
+    "object": {
+      "sha": "1e015f3e5270c500a1f7efe8eeecec549fc750dd",
+      "type": "commit",
+      "url": "https://api.github.com/repos/learningequality/kolibri/git/commits/1e015f3e5270c500a1f7efe8eeecec549fc750dd"
+    }
+  },
+  {
+    "ref": "refs/tags/v0.10.3-beta2",
+    "node_id": "MDM6UmVmNDk5NzY5Mzk6djAuMTAuMy1iZXRhMg==",
+    "url": "https://api.github.com/repos/learningequality/kolibri/git/refs/tags/v0.10.3-beta2",
+    "object": {
+      "sha": "ff941f8c77b5abc6ebb946a7aaffa3453a1218ae",
+      "type": "commit",
+      "url": "https://api.github.com/repos/learningequality/kolibri/git/commits/ff941f8c77b5abc6ebb946a7aaffa3453a1218ae"
+    }
+  },
+  {
+    "ref": "refs/tags/v0.10.3-beta3",
+    "node_id": "MDM6UmVmNDk5NzY5Mzk6djAuMTAuMy1iZXRhMw==",
+    "url": "https://api.github.com/repos/learningequality/kolibri/git/refs/tags/v0.10.3-beta3",
+    "object": {
+      "sha": "80de6c50229b2888acc5f5c857131be89917d502",
+      "type": "commit",
+      "url": "https://api.github.com/repos/learningequality/kolibri/git/commits/80de6c50229b2888acc5f5c857131be89917d502"
+    }
+  },
+  {
+    "ref": "refs/tags/v0.10.3",
+    "node_id": "MDM6UmVmNDk5NzY5Mzk6djAuMTAuMw==",
+    "url": "https://api.github.com/repos/learningequality/kolibri/git/refs/tags/v0.10.3",
+    "object": {
+      "sha": "8d8995cf2bc74aafdf26f16fbdd7fc9f281fbf94",
+      "type": "commit",
+      "url": "https://api.github.com/repos/learningequality/kolibri/git/commits/8d8995cf2bc74aafdf26f16fbdd7fc9f281fbf94"
+    }
+  },
+  {
+    "ref": "refs/tags/v0.11.0-alpha1",
+    "node_id": "MDM6UmVmNDk5NzY5Mzk6djAuMTEuMC1hbHBoYTE=",
+    "url": "https://api.github.com/repos/learningequality/kolibri/git/refs/tags/v0.11.0-alpha1",
+    "object": {
+      "sha": "5221e99391ad3e8f37bf180ef42d203c9d2c6dc5",
+      "type": "commit",
+      "url": "https://api.github.com/repos/learningequality/kolibri/git/commits/5221e99391ad3e8f37bf180ef42d203c9d2c6dc5"
+    }
+  },
+  {
+    "ref": "refs/tags/v0.11.0-alpha2",
+    "node_id": "MDM6UmVmNDk5NzY5Mzk6djAuMTEuMC1hbHBoYTI=",
+    "url": "https://api.github.com/repos/learningequality/kolibri/git/refs/tags/v0.11.0-alpha2",
+    "object": {
+      "sha": "888123a0b41a3750218a7cfd5c42d173606e3567",
+      "type": "commit",
+      "url": "https://api.github.com/repos/learningequality/kolibri/git/commits/888123a0b41a3750218a7cfd5c42d173606e3567"
+    }
+  },
+  {
+    "ref": "refs/tags/v0.11.0-alpha3",
+    "node_id": "MDM6UmVmNDk5NzY5Mzk6djAuMTEuMC1hbHBoYTM=",
+    "url": "https://api.github.com/repos/learningequality/kolibri/git/refs/tags/v0.11.0-alpha3",
+    "object": {
+      "sha": "992da10e43440bb4ffa236058bbeb5712b18736c",
+      "type": "commit",
+      "url": "https://api.github.com/repos/learningequality/kolibri/git/commits/992da10e43440bb4ffa236058bbeb5712b18736c"
+    }
+  },
+  {
+    "ref": "refs/tags/v0.11.0-alpha4",
+    "node_id": "MDM6UmVmNDk5NzY5Mzk6djAuMTEuMC1hbHBoYTQ=",
+    "url": "https://api.github.com/repos/learningequality/kolibri/git/refs/tags/v0.11.0-alpha4",
+    "object": {
+      "sha": "1102fc5fd16749a7010339b0cd81acb541427d23",
+      "type": "commit",
+      "url": "https://api.github.com/repos/learningequality/kolibri/git/commits/1102fc5fd16749a7010339b0cd81acb541427d23"
+    }
+  },
+  {
+    "ref": "refs/tags/v0.11.0-alpha5",
+    "node_id": "MDM6UmVmNDk5NzY5Mzk6djAuMTEuMC1hbHBoYTU=",
+    "url": "https://api.github.com/repos/learningequality/kolibri/git/refs/tags/v0.11.0-alpha5",
+    "object": {
+      "sha": "f5ec8ba9525f0ccef48bcc04c721f315471f0b98",
+      "type": "commit",
+      "url": "https://api.github.com/repos/learningequality/kolibri/git/commits/f5ec8ba9525f0ccef48bcc04c721f315471f0b98"
+    }
+  },
+  {
+    "ref": "refs/tags/v0.11.0-alpha6",
+    "node_id": "MDM6UmVmNDk5NzY5Mzk6djAuMTEuMC1hbHBoYTY=",
+    "url": "https://api.github.com/repos/learningequality/kolibri/git/refs/tags/v0.11.0-alpha6",
+    "object": {
+      "sha": "4571fc5e5482a2dc9cd8f93dd45222a69d8a68b4",
+      "type": "commit",
+      "url": "https://api.github.com/repos/learningequality/kolibri/git/commits/4571fc5e5482a2dc9cd8f93dd45222a69d8a68b4"
+    }
+  },
+  {
+    "ref": "refs/tags/v0.11.0-alpha7",
+    "node_id": "MDM6UmVmNDk5NzY5Mzk6djAuMTEuMC1hbHBoYTc=",
+    "url": "https://api.github.com/repos/learningequality/kolibri/git/refs/tags/v0.11.0-alpha7",
+    "object": {
+      "sha": "25902c849418da4a0fdd9958bd88bbb0c2053ee7",
+      "type": "commit",
+      "url": "https://api.github.com/repos/learningequality/kolibri/git/commits/25902c849418da4a0fdd9958bd88bbb0c2053ee7"
+    }
+  },
+  {
+    "ref": "refs/tags/v0.11.0-beta1",
+    "node_id": "MDM6UmVmNDk5NzY5Mzk6djAuMTEuMC1iZXRhMQ==",
+    "url": "https://api.github.com/repos/learningequality/kolibri/git/refs/tags/v0.11.0-beta1",
+    "object": {
+      "sha": "d5f19c3c1e45b848b111359664681f402f500cde",
+      "type": "commit",
+      "url": "https://api.github.com/repos/learningequality/kolibri/git/commits/d5f19c3c1e45b848b111359664681f402f500cde"
+    }
+  },
+  {
+    "ref": "refs/tags/v0.11.0-beta2",
+    "node_id": "MDM6UmVmNDk5NzY5Mzk6djAuMTEuMC1iZXRhMg==",
+    "url": "https://api.github.com/repos/learningequality/kolibri/git/refs/tags/v0.11.0-beta2",
+    "object": {
+      "sha": "c697568a012c5c9b40a8c033d7aef17cd7754335",
+      "type": "commit",
+      "url": "https://api.github.com/repos/learningequality/kolibri/git/commits/c697568a012c5c9b40a8c033d7aef17cd7754335"
+    }
+  },
+  {
+    "ref": "refs/tags/v0.11.0",
+    "node_id": "MDM6UmVmNDk5NzY5Mzk6djAuMTEuMA==",
+    "url": "https://api.github.com/repos/learningequality/kolibri/git/refs/tags/v0.11.0",
+    "object": {
+      "sha": "4db53a8e8571ab5e2f54747bd3d1954fca9ad117",
+      "type": "commit",
+      "url": "https://api.github.com/repos/learningequality/kolibri/git/commits/4db53a8e8571ab5e2f54747bd3d1954fca9ad117"
+    }
+  },
+  {
+    "ref": "refs/tags/v0.11.1-beta1",
+    "node_id": "MDM6UmVmNDk5NzY5Mzk6djAuMTEuMS1iZXRhMQ==",
+    "url": "https://api.github.com/repos/learningequality/kolibri/git/refs/tags/v0.11.1-beta1",
+    "object": {
+      "sha": "0a67aac6a6826f09c75d64bf5832e4b7b9796241",
+      "type": "commit",
+      "url": "https://api.github.com/repos/learningequality/kolibri/git/commits/0a67aac6a6826f09c75d64bf5832e4b7b9796241"
+    }
+  },
+  {
+    "ref": "refs/tags/v0.11.1",
+    "node_id": "MDM6UmVmNDk5NzY5Mzk6djAuMTEuMQ==",
+    "url": "https://api.github.com/repos/learningequality/kolibri/git/refs/tags/v0.11.1",
+    "object": {
+      "sha": "db180a6bcb7293f009a32020582c82962820c276",
+      "type": "commit",
+      "url": "https://api.github.com/repos/learningequality/kolibri/git/commits/db180a6bcb7293f009a32020582c82962820c276"
+    }
+  },
+  {
+    "ref": "refs/tags/v0.12.0-alpha1",
+    "node_id": "MDM6UmVmNDk5NzY5Mzk6djAuMTIuMC1hbHBoYTE=",
+    "url": "https://api.github.com/repos/learningequality/kolibri/git/refs/tags/v0.12.0-alpha1",
+    "object": {
+      "sha": "eaaa0f5eed0aa77234422feb1892f2087003d769",
+      "type": "commit",
+      "url": "https://api.github.com/repos/learningequality/kolibri/git/commits/eaaa0f5eed0aa77234422feb1892f2087003d769"
+    }
+  },
+  {
+    "ref": "refs/tags/v0.12.0-alpha2",
+    "node_id": "MDM6UmVmNDk5NzY5Mzk6djAuMTIuMC1hbHBoYTI=",
+    "url": "https://api.github.com/repos/learningequality/kolibri/git/refs/tags/v0.12.0-alpha2",
+    "object": {
+      "sha": "46bc5335c55877ba5042772f57ae3f3bffb401c5",
+      "type": "commit",
+      "url": "https://api.github.com/repos/learningequality/kolibri/git/commits/46bc5335c55877ba5042772f57ae3f3bffb401c5"
+    }
+  },
+  {
+    "ref": "refs/tags/v0.12.0-alpha3",
+    "node_id": "MDM6UmVmNDk5NzY5Mzk6djAuMTIuMC1hbHBoYTM=",
+    "url": "https://api.github.com/repos/learningequality/kolibri/git/refs/tags/v0.12.0-alpha3",
+    "object": {
+      "sha": "6ea86f0c470b4b4bfd984f7e30485ce37b4ea131",
+      "type": "commit",
+      "url": "https://api.github.com/repos/learningequality/kolibri/git/commits/6ea86f0c470b4b4bfd984f7e30485ce37b4ea131"
+    }
+  },
+  {
+    "ref": "refs/tags/v0.12.0-alpha4",
+    "node_id": "MDM6UmVmNDk5NzY5Mzk6djAuMTIuMC1hbHBoYTQ=",
+    "url": "https://api.github.com/repos/learningequality/kolibri/git/refs/tags/v0.12.0-alpha4",
+    "object": {
+      "sha": "92da363efd2348397adf4a4a20ac642b28c309cd",
+      "type": "commit",
+      "url": "https://api.github.com/repos/learningequality/kolibri/git/commits/92da363efd2348397adf4a4a20ac642b28c309cd"
+    }
+  },
+  {
+    "ref": "refs/tags/v0.12.0-alpha5",
+    "node_id": "MDM6UmVmNDk5NzY5Mzk6djAuMTIuMC1hbHBoYTU=",
+    "url": "https://api.github.com/repos/learningequality/kolibri/git/refs/tags/v0.12.0-alpha5",
+    "object": {
+      "sha": "5501df953c7b6161f05d129dfae5a3c456ce5c14",
+      "type": "commit",
+      "url": "https://api.github.com/repos/learningequality/kolibri/git/commits/5501df953c7b6161f05d129dfae5a3c456ce5c14"
+    }
+  },
+  {
+    "ref": "refs/tags/v0.12.0-alpha6",
+    "node_id": "MDM6UmVmNDk5NzY5Mzk6djAuMTIuMC1hbHBoYTY=",
+    "url": "https://api.github.com/repos/learningequality/kolibri/git/refs/tags/v0.12.0-alpha6",
+    "object": {
+      "sha": "66500f1a4c4d69c0b740bc946a7f2fa9c01cf50b",
+      "type": "commit",
+      "url": "https://api.github.com/repos/learningequality/kolibri/git/commits/66500f1a4c4d69c0b740bc946a7f2fa9c01cf50b"
+    }
+  },
+  {
+    "ref": "refs/tags/v0.12.0-alpha7",
+    "node_id": "MDM6UmVmNDk5NzY5Mzk6djAuMTIuMC1hbHBoYTc=",
+    "url": "https://api.github.com/repos/learningequality/kolibri/git/refs/tags/v0.12.0-alpha7",
+    "object": {
+      "sha": "d018d906ea1685133df50852d50803eb096936f5",
+      "type": "commit",
+      "url": "https://api.github.com/repos/learningequality/kolibri/git/commits/d018d906ea1685133df50852d50803eb096936f5"
+    }
+  },
+  {
+    "ref": "refs/tags/v0.12.0-alpha8",
+    "node_id": "MDM6UmVmNDk5NzY5Mzk6djAuMTIuMC1hbHBoYTg=",
+    "url": "https://api.github.com/repos/learningequality/kolibri/git/refs/tags/v0.12.0-alpha8",
+    "object": {
+      "sha": "9a1d70921aed102cae777cfdb430901789ab620f",
+      "type": "commit",
+      "url": "https://api.github.com/repos/learningequality/kolibri/git/commits/9a1d70921aed102cae777cfdb430901789ab620f"
+    }
+  },
+  {
+    "ref": "refs/tags/v0.12.0-beta1",
+    "node_id": "MDM6UmVmNDk5NzY5Mzk6djAuMTIuMC1iZXRhMQ==",
+    "url": "https://api.github.com/repos/learningequality/kolibri/git/refs/tags/v0.12.0-beta1",
+    "object": {
+      "sha": "464ec26fac7502c15994d1847530f49937f6733e",
+      "type": "commit",
+      "url": "https://api.github.com/repos/learningequality/kolibri/git/commits/464ec26fac7502c15994d1847530f49937f6733e"
+    }
+  },
+  {
+    "ref": "refs/tags/v0.12.0-beta2",
+    "node_id": "MDM6UmVmNDk5NzY5Mzk6djAuMTIuMC1iZXRhMg==",
+    "url": "https://api.github.com/repos/learningequality/kolibri/git/refs/tags/v0.12.0-beta2",
+    "object": {
+      "sha": "990bfa2dc388b54f066f4d8d629466a310060360",
+      "type": "commit",
+      "url": "https://api.github.com/repos/learningequality/kolibri/git/commits/990bfa2dc388b54f066f4d8d629466a310060360"
+    }
+  },
+  {
+    "ref": "refs/tags/v0.12.0-beta3",
+    "node_id": "MDM6UmVmNDk5NzY5Mzk6djAuMTIuMC1iZXRhMw==",
+    "url": "https://api.github.com/repos/learningequality/kolibri/git/refs/tags/v0.12.0-beta3",
+    "object": {
+      "sha": "20d5d5469d5233efdce41958658b1515b6054269",
+      "type": "commit",
+      "url": "https://api.github.com/repos/learningequality/kolibri/git/commits/20d5d5469d5233efdce41958658b1515b6054269"
+    }
+  },
+  {
+    "ref": "refs/tags/v0.12.0-beta4",
+    "node_id": "MDM6UmVmNDk5NzY5Mzk6djAuMTIuMC1iZXRhNA==",
+    "url": "https://api.github.com/repos/learningequality/kolibri/git/refs/tags/v0.12.0-beta4",
+    "object": {
+      "sha": "f9d1108d998c1efd94f32594e6a566f6ec2be6ae",
+      "type": "commit",
+      "url": "https://api.github.com/repos/learningequality/kolibri/git/commits/f9d1108d998c1efd94f32594e6a566f6ec2be6ae"
+    }
+  },
+  {
+    "ref": "refs/tags/v0.12.0-beta5",
+    "node_id": "MDM6UmVmNDk5NzY5Mzk6djAuMTIuMC1iZXRhNQ==",
+    "url": "https://api.github.com/repos/learningequality/kolibri/git/refs/tags/v0.12.0-beta5",
+    "object": {
+      "sha": "5bea970825c2605598ec0fa0ec3447fb4c276e56",
+      "type": "commit",
+      "url": "https://api.github.com/repos/learningequality/kolibri/git/commits/5bea970825c2605598ec0fa0ec3447fb4c276e56"
+    }
+  },
+  {
+    "ref": "refs/tags/v0.12.0-beta6",
+    "node_id": "MDM6UmVmNDk5NzY5Mzk6djAuMTIuMC1iZXRhNg==",
+    "url": "https://api.github.com/repos/learningequality/kolibri/git/refs/tags/v0.12.0-beta6",
+    "object": {
+      "sha": "8508c362276053b2a542a87acc611004ffe2dc9d",
+      "type": "commit",
+      "url": "https://api.github.com/repos/learningequality/kolibri/git/commits/8508c362276053b2a542a87acc611004ffe2dc9d"
+    }
+  },
+  {
+    "ref": "refs/tags/v0.12.0-beta7",
+    "node_id": "MDM6UmVmNDk5NzY5Mzk6djAuMTIuMC1iZXRhNw==",
+    "url": "https://api.github.com/repos/learningequality/kolibri/git/refs/tags/v0.12.0-beta7",
+    "object": {
+      "sha": "cdd35337529ff47154a2dc517b3fa19eb28d730c",
+      "type": "commit",
+      "url": "https://api.github.com/repos/learningequality/kolibri/git/commits/cdd35337529ff47154a2dc517b3fa19eb28d730c"
+    }
+  },
+  {
+    "ref": "refs/tags/v0.12.0-beta8b",
+    "node_id": "MDM6UmVmNDk5NzY5Mzk6djAuMTIuMC1iZXRhOGI=",
+    "url": "https://api.github.com/repos/learningequality/kolibri/git/refs/tags/v0.12.0-beta8b",
+    "object": {
+      "sha": "3f768c07b25ea02303d615780efa6dd5a2528dbe",
+      "type": "commit",
+      "url": "https://api.github.com/repos/learningequality/kolibri/git/commits/3f768c07b25ea02303d615780efa6dd5a2528dbe"
+    }
+  },
+  {
+    "ref": "refs/tags/v0.12.0-beta8c",
+    "node_id": "MDM6UmVmNDk5NzY5Mzk6djAuMTIuMC1iZXRhOGM=",
+    "url": "https://api.github.com/repos/learningequality/kolibri/git/refs/tags/v0.12.0-beta8c",
+    "object": {
+      "sha": "5abe3c70c8f76ff2e2a3e5eae0c34784a0d5dcf4",
+      "type": "commit",
+      "url": "https://api.github.com/repos/learningequality/kolibri/git/commits/5abe3c70c8f76ff2e2a3e5eae0c34784a0d5dcf4"
+    }
+  },
+  {
+    "ref": "refs/tags/v0.12.0-beta9",
+    "node_id": "MDM6UmVmNDk5NzY5Mzk6djAuMTIuMC1iZXRhOQ==",
+    "url": "https://api.github.com/repos/learningequality/kolibri/git/refs/tags/v0.12.0-beta9",
+    "object": {
+      "sha": "7f9ecacafabd187fba3a3ce70e5e82a550626499",
+      "type": "commit",
+      "url": "https://api.github.com/repos/learningequality/kolibri/git/commits/7f9ecacafabd187fba3a3ce70e5e82a550626499"
+    }
+  },
+  {
+    "ref": "refs/tags/v0.12.0-beta10",
+    "node_id": "MDM6UmVmNDk5NzY5Mzk6djAuMTIuMC1iZXRhMTA=",
+    "url": "https://api.github.com/repos/learningequality/kolibri/git/refs/tags/v0.12.0-beta10",
+    "object": {
+      "sha": "277ac94745f7de4187e73771e7fd1f9f72ea73ce",
+      "type": "commit",
+      "url": "https://api.github.com/repos/learningequality/kolibri/git/commits/277ac94745f7de4187e73771e7fd1f9f72ea73ce"
+    }
+  },
+  {
+    "ref": "refs/tags/v0.12.0-beta11",
+    "node_id": "MDM6UmVmNDk5NzY5Mzk6djAuMTIuMC1iZXRhMTE=",
+    "url": "https://api.github.com/repos/learningequality/kolibri/git/refs/tags/v0.12.0-beta11",
+    "object": {
+      "sha": "9594b6cadeff0a0b5da46a819b135b9fd9d9916c",
+      "type": "commit",
+      "url": "https://api.github.com/repos/learningequality/kolibri/git/commits/9594b6cadeff0a0b5da46a819b135b9fd9d9916c"
+    }
+  },
+  {
+    "ref": "refs/tags/v0.12.0-beta12",
+    "node_id": "MDM6UmVmNDk5NzY5Mzk6djAuMTIuMC1iZXRhMTI=",
+    "url": "https://api.github.com/repos/learningequality/kolibri/git/refs/tags/v0.12.0-beta12",
+    "object": {
+      "sha": "20f47e435620bc5434e4c3c8ff97c6f48ceb228c",
+      "type": "commit",
+      "url": "https://api.github.com/repos/learningequality/kolibri/git/commits/20f47e435620bc5434e4c3c8ff97c6f48ceb228c"
+    }
+  },
+  {
+    "ref": "refs/tags/v0.12.0-beta13",
+    "node_id": "MDM6UmVmNDk5NzY5Mzk6djAuMTIuMC1iZXRhMTM=",
+    "url": "https://api.github.com/repos/learningequality/kolibri/git/refs/tags/v0.12.0-beta13",
+    "object": {
+      "sha": "e90ced1f717214924c70ed264cd4ed43b93a2686",
+      "type": "commit",
+      "url": "https://api.github.com/repos/learningequality/kolibri/git/commits/e90ced1f717214924c70ed264cd4ed43b93a2686"
+    }
+  },
+  {
+    "ref": "refs/tags/v0.12.0",
+    "node_id": "MDM6UmVmNDk5NzY5Mzk6djAuMTIuMA==",
+    "url": "https://api.github.com/repos/learningequality/kolibri/git/refs/tags/v0.12.0",
+    "object": {
+      "sha": "d510ec53f9e7415c323dbd69e95790371d01585b",
+      "type": "commit",
+      "url": "https://api.github.com/repos/learningequality/kolibri/git/commits/d510ec53f9e7415c323dbd69e95790371d01585b"
+    }
+  },
+  {
+    "ref": "refs/tags/v0.12.1-alpha0",
+    "node_id": "MDM6UmVmNDk5NzY5Mzk6djAuMTIuMS1hbHBoYTA=",
+    "url": "https://api.github.com/repos/learningequality/kolibri/git/refs/tags/v0.12.1-alpha0",
+    "object": {
+      "sha": "f03e4281b9ab927769f519663d261aa771ad4ea0",
+      "type": "commit",
+      "url": "https://api.github.com/repos/learningequality/kolibri/git/commits/f03e4281b9ab927769f519663d261aa771ad4ea0"
+    }
+  },
+  {
+    "ref": "refs/tags/v0.12.1",
+    "node_id": "MDM6UmVmNDk5NzY5Mzk6djAuMTIuMQ==",
+    "url": "https://api.github.com/repos/learningequality/kolibri/git/refs/tags/v0.12.1",
+    "object": {
+      "sha": "02226515df1263ee83ed2d791cffe3b31a8dce61",
+      "type": "commit",
+      "url": "https://api.github.com/repos/learningequality/kolibri/git/commits/02226515df1263ee83ed2d791cffe3b31a8dce61"
+    }
+  },
+  {
+    "ref": "refs/tags/v0.12.2-alpha0",
+    "node_id": "MDM6UmVmNDk5NzY5Mzk6djAuMTIuMi1hbHBoYTA=",
+    "url": "https://api.github.com/repos/learningequality/kolibri/git/refs/tags/v0.12.2-alpha0",
+    "object": {
+      "sha": "786ab88eee6be5eeed264b26417ba2187748496f",
+      "type": "commit",
+      "url": "https://api.github.com/repos/learningequality/kolibri/git/commits/786ab88eee6be5eeed264b26417ba2187748496f"
+    }
+  },
+  {
+    "ref": "refs/tags/v0.12.2-beta2",
+    "node_id": "MDM6UmVmNDk5NzY5Mzk6djAuMTIuMi1iZXRhMg==",
+    "url": "https://api.github.com/repos/learningequality/kolibri/git/refs/tags/v0.12.2-beta2",
+    "object": {
+      "sha": "ce2c725775d1b036006992f4edb7c8f41dacefc8",
+      "type": "commit",
+      "url": "https://api.github.com/repos/learningequality/kolibri/git/commits/ce2c725775d1b036006992f4edb7c8f41dacefc8"
+    }
+  },
+  {
+    "ref": "refs/tags/v0.12.2-beta3",
+    "node_id": "MDM6UmVmNDk5NzY5Mzk6djAuMTIuMi1iZXRhMw==",
+    "url": "https://api.github.com/repos/learningequality/kolibri/git/refs/tags/v0.12.2-beta3",
+    "object": {
+      "sha": "d403facd4d1818e1161452d2c5371b2bfde66904",
+      "type": "commit",
+      "url": "https://api.github.com/repos/learningequality/kolibri/git/commits/d403facd4d1818e1161452d2c5371b2bfde66904"
+    }
+  },
+  {
+    "ref": "refs/tags/v0.12.2",
+    "node_id": "MDM6UmVmNDk5NzY5Mzk6djAuMTIuMg==",
+    "url": "https://api.github.com/repos/learningequality/kolibri/git/refs/tags/v0.12.2",
+    "object": {
+      "sha": "f74ed5e4e02e68f818710336c88726d08491842b",
+      "type": "commit",
+      "url": "https://api.github.com/repos/learningequality/kolibri/git/commits/f74ed5e4e02e68f818710336c88726d08491842b"
+    }
+  },
+  {
+    "ref": "refs/tags/v0.12.3-alpha0",
+    "node_id": "MDM6UmVmNDk5NzY5Mzk6djAuMTIuMy1hbHBoYTA=",
+    "url": "https://api.github.com/repos/learningequality/kolibri/git/refs/tags/v0.12.3-alpha0",
+    "object": {
+      "sha": "3db7ecb7340829e84ca0c1b37224a6dcc11c37be",
+      "type": "commit",
+      "url": "https://api.github.com/repos/learningequality/kolibri/git/commits/3db7ecb7340829e84ca0c1b37224a6dcc11c37be"
+    }
+  },
+  {
+    "ref": "refs/tags/v0.12.3-beta1",
+    "node_id": "MDM6UmVmNDk5NzY5Mzk6djAuMTIuMy1iZXRhMQ==",
+    "url": "https://api.github.com/repos/learningequality/kolibri/git/refs/tags/v0.12.3-beta1",
+    "object": {
+      "sha": "53788ea2471f35d5d1c718cf5b9291778b022690",
+      "type": "commit",
+      "url": "https://api.github.com/repos/learningequality/kolibri/git/commits/53788ea2471f35d5d1c718cf5b9291778b022690"
+    }
+  },
+  {
+    "ref": "refs/tags/v0.12.3",
+    "node_id": "MDM6UmVmNDk5NzY5Mzk6djAuMTIuMw==",
+    "url": "https://api.github.com/repos/learningequality/kolibri/git/refs/tags/v0.12.3",
+    "object": {
+      "sha": "abecb96bbd738c08e5a9df0c1702ef54d2daa436",
+      "type": "commit",
+      "url": "https://api.github.com/repos/learningequality/kolibri/git/commits/abecb96bbd738c08e5a9df0c1702ef54d2daa436"
+    }
+  },
+  {
+    "ref": "refs/tags/v0.12.4-beta0",
+    "node_id": "MDM6UmVmNDk5NzY5Mzk6djAuMTIuNC1iZXRhMA==",
+    "url": "https://api.github.com/repos/learningequality/kolibri/git/refs/tags/v0.12.4-beta0",
+    "object": {
+      "sha": "c476b52e91c47c97e515defe114f1d573c246a32",
+      "type": "commit",
+      "url": "https://api.github.com/repos/learningequality/kolibri/git/commits/c476b52e91c47c97e515defe114f1d573c246a32"
+    }
+  },
+  {
+    "ref": "refs/tags/v0.12.4-beta1",
+    "node_id": "MDM6UmVmNDk5NzY5Mzk6djAuMTIuNC1iZXRhMQ==",
+    "url": "https://api.github.com/repos/learningequality/kolibri/git/refs/tags/v0.12.4-beta1",
+    "object": {
+      "sha": "32a464aa6e0e1e1430f595b8d95600ec74ce7192",
+      "type": "commit",
+      "url": "https://api.github.com/repos/learningequality/kolibri/git/commits/32a464aa6e0e1e1430f595b8d95600ec74ce7192"
+    }
+  },
+  {
+    "ref": "refs/tags/v0.12.4-beta2",
+    "node_id": "MDM6UmVmNDk5NzY5Mzk6djAuMTIuNC1iZXRhMg==",
+    "url": "https://api.github.com/repos/learningequality/kolibri/git/refs/tags/v0.12.4-beta2",
+    "object": {
+      "sha": "c5d9d9bd06e0543dc66a4d409604bb599f19b659",
+      "type": "commit",
+      "url": "https://api.github.com/repos/learningequality/kolibri/git/commits/c5d9d9bd06e0543dc66a4d409604bb599f19b659"
+    }
+  },
+  {
+    "ref": "refs/tags/v0.12.4-beta3",
+    "node_id": "MDM6UmVmNDk5NzY5Mzk6djAuMTIuNC1iZXRhMw==",
+    "url": "https://api.github.com/repos/learningequality/kolibri/git/refs/tags/v0.12.4-beta3",
+    "object": {
+      "sha": "6bd2fc4080e82f7a19a09d3984f7453a9c146237",
+      "type": "commit",
+      "url": "https://api.github.com/repos/learningequality/kolibri/git/commits/6bd2fc4080e82f7a19a09d3984f7453a9c146237"
+    }
+  },
+  {
+    "ref": "refs/tags/v0.12.4-beta4",
+    "node_id": "MDM6UmVmNDk5NzY5Mzk6djAuMTIuNC1iZXRhNA==",
+    "url": "https://api.github.com/repos/learningequality/kolibri/git/refs/tags/v0.12.4-beta4",
+    "object": {
+      "sha": "b8b16e8bde1b54562dfb2dbcd5b576556105717d",
+      "type": "commit",
+      "url": "https://api.github.com/repos/learningequality/kolibri/git/commits/b8b16e8bde1b54562dfb2dbcd5b576556105717d"
+    }
+  },
+  {
+    "ref": "refs/tags/v0.12.4-beta5",
+    "node_id": "MDM6UmVmNDk5NzY5Mzk6djAuMTIuNC1iZXRhNQ==",
+    "url": "https://api.github.com/repos/learningequality/kolibri/git/refs/tags/v0.12.4-beta5",
+    "object": {
+      "sha": "db0078f014fff5a98f6476df2ba454369bc4a3e6",
+      "type": "commit",
+      "url": "https://api.github.com/repos/learningequality/kolibri/git/commits/db0078f014fff5a98f6476df2ba454369bc4a3e6"
+    }
+  },
+  {
+    "ref": "refs/tags/v0.12.4-beta6",
+    "node_id": "MDM6UmVmNDk5NzY5Mzk6djAuMTIuNC1iZXRhNg==",
+    "url": "https://api.github.com/repos/learningequality/kolibri/git/refs/tags/v0.12.4-beta6",
+    "object": {
+      "sha": "2c6f44b4a89b6e7e77e5e7052f25a76ce0e1c19d",
+      "type": "commit",
+      "url": "https://api.github.com/repos/learningequality/kolibri/git/commits/2c6f44b4a89b6e7e77e5e7052f25a76ce0e1c19d"
+    }
+  },
+  {
+    "ref": "refs/tags/v0.12.4-beta7",
+    "node_id": "MDM6UmVmNDk5NzY5Mzk6djAuMTIuNC1iZXRhNw==",
+    "url": "https://api.github.com/repos/learningequality/kolibri/git/refs/tags/v0.12.4-beta7",
+    "object": {
+      "sha": "80fc694d7ab40cba571bc671a578c230718943ea",
+      "type": "commit",
+      "url": "https://api.github.com/repos/learningequality/kolibri/git/commits/80fc694d7ab40cba571bc671a578c230718943ea"
+    }
+  },
+  {
+    "ref": "refs/tags/v0.12.4-beta8",
+    "node_id": "MDM6UmVmNDk5NzY5Mzk6djAuMTIuNC1iZXRhOA==",
+    "url": "https://api.github.com/repos/learningequality/kolibri/git/refs/tags/v0.12.4-beta8",
+    "object": {
+      "sha": "d4a4387dd195421a335516b2abc48407d07e2920",
+      "type": "commit",
+      "url": "https://api.github.com/repos/learningequality/kolibri/git/commits/d4a4387dd195421a335516b2abc48407d07e2920"
+    }
+  },
+  {
+    "ref": "refs/tags/v0.12.4",
+    "node_id": "MDM6UmVmNDk5NzY5Mzk6djAuMTIuNA==",
+    "url": "https://api.github.com/repos/learningequality/kolibri/git/refs/tags/v0.12.4",
+    "object": {
+      "sha": "8b74d941aeb93dd82d5dbc935e3de1dd891ec766",
+      "type": "commit",
+      "url": "https://api.github.com/repos/learningequality/kolibri/git/commits/8b74d941aeb93dd82d5dbc935e3de1dd891ec766"
+    }
+  },
+  {
+    "ref": "refs/tags/v0.12.5-alpha0",
+    "node_id": "MDM6UmVmNDk5NzY5Mzk6djAuMTIuNS1hbHBoYTA=",
+    "url": "https://api.github.com/repos/learningequality/kolibri/git/refs/tags/v0.12.5-alpha0",
+    "object": {
+      "sha": "9eac2944934d24e4a631d1a8c673047662965b66",
+      "type": "commit",
+      "url": "https://api.github.com/repos/learningequality/kolibri/git/commits/9eac2944934d24e4a631d1a8c673047662965b66"
+    }
+  },
+  {
+    "ref": "refs/tags/v0.12.5-beta1",
+    "node_id": "MDM6UmVmNDk5NzY5Mzk6djAuMTIuNS1iZXRhMQ==",
+    "url": "https://api.github.com/repos/learningequality/kolibri/git/refs/tags/v0.12.5-beta1",
+    "object": {
+      "sha": "45d57cabbe441d17c48f37986696220f903f2400",
+      "type": "commit",
+      "url": "https://api.github.com/repos/learningequality/kolibri/git/commits/45d57cabbe441d17c48f37986696220f903f2400"
+    }
+  },
+  {
+    "ref": "refs/tags/v0.12.5-beta2",
+    "node_id": "MDM6UmVmNDk5NzY5Mzk6djAuMTIuNS1iZXRhMg==",
+    "url": "https://api.github.com/repos/learningequality/kolibri/git/refs/tags/v0.12.5-beta2",
+    "object": {
+      "sha": "aea553cc4ce3b98b424ddb92ae4e5a182e911609",
+      "type": "commit",
+      "url": "https://api.github.com/repos/learningequality/kolibri/git/commits/aea553cc4ce3b98b424ddb92ae4e5a182e911609"
+    }
+  },
+  {
+    "ref": "refs/tags/v0.12.5",
+    "node_id": "MDM6UmVmNDk5NzY5Mzk6djAuMTIuNQ==",
+    "url": "https://api.github.com/repos/learningequality/kolibri/git/refs/tags/v0.12.5",
+    "object": {
+      "sha": "3f7c3653f88b97df099712b1b7d96723273b45d9",
+      "type": "commit",
+      "url": "https://api.github.com/repos/learningequality/kolibri/git/commits/3f7c3653f88b97df099712b1b7d96723273b45d9"
+    }
+  },
+  {
+    "ref": "refs/tags/v0.12.6-alpha0",
+    "node_id": "MDM6UmVmNDk5NzY5Mzk6djAuMTIuNi1hbHBoYTA=",
+    "url": "https://api.github.com/repos/learningequality/kolibri/git/refs/tags/v0.12.6-alpha0",
+    "object": {
+      "sha": "cf97fef49fcf496d6288c45c0e1160861972751d",
+      "type": "commit",
+      "url": "https://api.github.com/repos/learningequality/kolibri/git/commits/cf97fef49fcf496d6288c45c0e1160861972751d"
+    }
+  },
+  {
+    "ref": "refs/tags/v0.12.6-alpha1",
+    "node_id": "MDM6UmVmNDk5NzY5Mzk6djAuMTIuNi1hbHBoYTE=",
+    "url": "https://api.github.com/repos/learningequality/kolibri/git/refs/tags/v0.12.6-alpha1",
+    "object": {
+      "sha": "801fc2c707c2b2832dfbd61d7a22d6c7efe57481",
+      "type": "commit",
+      "url": "https://api.github.com/repos/learningequality/kolibri/git/commits/801fc2c707c2b2832dfbd61d7a22d6c7efe57481"
+    }
+  },
+  {
+    "ref": "refs/tags/v0.12.6-alpha2",
+    "node_id": "MDM6UmVmNDk5NzY5Mzk6djAuMTIuNi1hbHBoYTI=",
+    "url": "https://api.github.com/repos/learningequality/kolibri/git/refs/tags/v0.12.6-alpha2",
+    "object": {
+      "sha": "06fc9407d66aec76c323129c0f5a7824b05e441f",
+      "type": "commit",
+      "url": "https://api.github.com/repos/learningequality/kolibri/git/commits/06fc9407d66aec76c323129c0f5a7824b05e441f"
+    }
+  },
+  {
+    "ref": "refs/tags/v0.12.6-alpha3",
+    "node_id": "MDM6UmVmNDk5NzY5Mzk6djAuMTIuNi1hbHBoYTM=",
+    "url": "https://api.github.com/repos/learningequality/kolibri/git/refs/tags/v0.12.6-alpha3",
+    "object": {
+      "sha": "4e41d3610b86c82fecd21f18563944873b10ce7d",
+      "type": "commit",
+      "url": "https://api.github.com/repos/learningequality/kolibri/git/commits/4e41d3610b86c82fecd21f18563944873b10ce7d"
+    }
+  },
+  {
+    "ref": "refs/tags/v0.12.6-alpha4",
+    "node_id": "MDM6UmVmNDk5NzY5Mzk6djAuMTIuNi1hbHBoYTQ=",
+    "url": "https://api.github.com/repos/learningequality/kolibri/git/refs/tags/v0.12.6-alpha4",
+    "object": {
+      "sha": "70f45b44adfebcdc84c1513b4be141d1fd69e06c",
+      "type": "commit",
+      "url": "https://api.github.com/repos/learningequality/kolibri/git/commits/70f45b44adfebcdc84c1513b4be141d1fd69e06c"
+    }
+  },
+  {
+    "ref": "refs/tags/v0.12.6-beta1",
+    "node_id": "MDM6UmVmNDk5NzY5Mzk6djAuMTIuNi1iZXRhMQ==",
+    "url": "https://api.github.com/repos/learningequality/kolibri/git/refs/tags/v0.12.6-beta1",
+    "object": {
+      "sha": "86a13eefc0fdc1128be4b1aeec55217fd0f96e62",
+      "type": "commit",
+      "url": "https://api.github.com/repos/learningequality/kolibri/git/commits/86a13eefc0fdc1128be4b1aeec55217fd0f96e62"
+    }
+  },
+  {
+    "ref": "refs/tags/v0.12.6-beta2",
+    "node_id": "MDM6UmVmNDk5NzY5Mzk6djAuMTIuNi1iZXRhMg==",
+    "url": "https://api.github.com/repos/learningequality/kolibri/git/refs/tags/v0.12.6-beta2",
+    "object": {
+      "sha": "6363fc7d154637f57fc7a8cabf191e0be6f3b79f",
+      "type": "commit",
+      "url": "https://api.github.com/repos/learningequality/kolibri/git/commits/6363fc7d154637f57fc7a8cabf191e0be6f3b79f"
+    }
+  },
+  {
+    "ref": "refs/tags/v0.12.6-rc1",
+    "node_id": "MDM6UmVmNDk5NzY5Mzk6djAuMTIuNi1yYzE=",
+    "url": "https://api.github.com/repos/learningequality/kolibri/git/refs/tags/v0.12.6-rc1",
+    "object": {
+      "sha": "5f3e5e4a8724fe9b5a0727c7225349c61779cead",
+      "type": "commit",
+      "url": "https://api.github.com/repos/learningequality/kolibri/git/commits/5f3e5e4a8724fe9b5a0727c7225349c61779cead"
+    }
+  },
+  {
+    "ref": "refs/tags/v0.12.6",
+    "node_id": "MDM6UmVmNDk5NzY5Mzk6djAuMTIuNg==",
+    "url": "https://api.github.com/repos/learningequality/kolibri/git/refs/tags/v0.12.6",
+    "object": {
+      "sha": "81a12b942ff582fbf5f640a0e1ef1ad15dfabc62",
+      "type": "commit",
+      "url": "https://api.github.com/repos/learningequality/kolibri/git/commits/81a12b942ff582fbf5f640a0e1ef1ad15dfabc62"
+    }
+  },
+  {
+    "ref": "refs/tags/v0.12.7-beta1",
+    "node_id": "MDM6UmVmNDk5NzY5Mzk6djAuMTIuNy1iZXRhMQ==",
+    "url": "https://api.github.com/repos/learningequality/kolibri/git/refs/tags/v0.12.7-beta1",
+    "object": {
+      "sha": "0ee943ab425486427ec4f1c72d68934f525a2c40",
+      "type": "commit",
+      "url": "https://api.github.com/repos/learningequality/kolibri/git/commits/0ee943ab425486427ec4f1c72d68934f525a2c40"
+    }
+  },
+  {
+    "ref": "refs/tags/v0.12.7-beta2",
+    "node_id": "MDM6UmVmNDk5NzY5Mzk6djAuMTIuNy1iZXRhMg==",
+    "url": "https://api.github.com/repos/learningequality/kolibri/git/refs/tags/v0.12.7-beta2",
+    "object": {
+      "sha": "64abf04c7fd3f2f8476a7217a8b2c837a74977c4",
+      "type": "commit",
+      "url": "https://api.github.com/repos/learningequality/kolibri/git/commits/64abf04c7fd3f2f8476a7217a8b2c837a74977c4"
+    }
+  },
+  {
+    "ref": "refs/tags/v0.12.7",
+    "node_id": "MDM6UmVmNDk5NzY5Mzk6djAuMTIuNw==",
+    "url": "https://api.github.com/repos/learningequality/kolibri/git/refs/tags/v0.12.7",
+    "object": {
+      "sha": "987e003a6f9a1d83666d4102f33bb3c883f2c74b",
+      "type": "commit",
+      "url": "https://api.github.com/repos/learningequality/kolibri/git/commits/987e003a6f9a1d83666d4102f33bb3c883f2c74b"
+    }
+  },
+  {
+    "ref": "refs/tags/v0.12.8-alpha1",
+    "node_id": "MDM6UmVmNDk5NzY5Mzk6djAuMTIuOC1hbHBoYTE=",
+    "url": "https://api.github.com/repos/learningequality/kolibri/git/refs/tags/v0.12.8-alpha1",
+    "object": {
+      "sha": "e8ed75ca9fc194627344c6ce8bb5bad2ff7ce27e",
+      "type": "commit",
+      "url": "https://api.github.com/repos/learningequality/kolibri/git/commits/e8ed75ca9fc194627344c6ce8bb5bad2ff7ce27e"
+    }
+  },
+  {
+    "ref": "refs/tags/v0.12.8-alpha2",
+    "node_id": "MDM6UmVmNDk5NzY5Mzk6djAuMTIuOC1hbHBoYTI=",
+    "url": "https://api.github.com/repos/learningequality/kolibri/git/refs/tags/v0.12.8-alpha2",
+    "object": {
+      "sha": "ba92618e8aed51069e1ffd75295880f024b14309",
+      "type": "commit",
+      "url": "https://api.github.com/repos/learningequality/kolibri/git/commits/ba92618e8aed51069e1ffd75295880f024b14309"
+    }
+  },
+  {
+    "ref": "refs/tags/v0.13.0-alpha0",
+    "node_id": "MDM6UmVmNDk5NzY5Mzk6djAuMTMuMC1hbHBoYTA=",
+    "url": "https://api.github.com/repos/learningequality/kolibri/git/refs/tags/v0.13.0-alpha0",
+    "object": {
+      "sha": "77935fa9889fd3d21f34b80050d3eb6edbdfe2d7",
+      "type": "commit",
+      "url": "https://api.github.com/repos/learningequality/kolibri/git/commits/77935fa9889fd3d21f34b80050d3eb6edbdfe2d7"
+    }
+  },
+  {
+    "ref": "refs/tags/v0.13.0-alpha1",
+    "node_id": "MDM6UmVmNDk5NzY5Mzk6djAuMTMuMC1hbHBoYTE=",
+    "url": "https://api.github.com/repos/learningequality/kolibri/git/refs/tags/v0.13.0-alpha1",
+    "object": {
+      "sha": "f774c6743ed72331fbf93108354f6cb1d8781763",
+      "type": "commit",
+      "url": "https://api.github.com/repos/learningequality/kolibri/git/commits/f774c6743ed72331fbf93108354f6cb1d8781763"
+    }
+  }
+]
