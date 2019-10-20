@@ -95,39 +95,30 @@
         );
       },
       optionContentStyle() {
-        let backgroundColor = '';
-        let color = '#000';
-        let hover = {
-          backgroundColor: this.$themeBrand.primary.v_50,
+        const style = {
+          backgroundColor: null,
+          color: this.$themePalette.black,
+          fontWeight: 'normal',
+          ':hover': {
+            backgroundColor: this.$themeBrand.primary.v_50,
+          },
         };
-        let fontWeight = 'normal';
-
-        if (!this.isDivider) {
-          if (this.active) {
-            backgroundColor = this.$themeBrand.primary.v_50;
-            color = this.$themeTokens.primaryDark;
-            fontWeight = 'bold';
-          }
+        if (this.active) {
+          style.backgroundColor = this.$themeBrand.primary.v_50;
+          style.color = this.$themeTokens.primaryDark;
+          style.fontWeight = 'bold';
+          style[':hover'].backgroundColor = this.$themeBrand.primary.v_100;
         }
-
-        return {
-          backgroundColor,
-          color,
-          fontWeight,
-          ':hover': hover,
-        };
+        return style;
       },
       optionIconStyle() {
-        let fill = this.$themePalette.grey.v_600;
-        if (this.active) {
-          fill = this.$themeTokens.primary;
-        }
-        if (this.hover) {
-          fill = '#000';
-        }
-        return {
-          fill,
+        const style = {
+          fill: this.$themePalette.grey.v_600,
         };
+        if (this.active) {
+          style.fill = this.$themeTokens.primary;
+        }
+        return style;
       },
     },
     methods: {
@@ -160,6 +151,7 @@
     padding: 0 8px;
     margin: 4px 8px 0;
     border-radius: $radius;
+    transition: background-color 100ms ease;
   }
   .divider {
     display: block;
