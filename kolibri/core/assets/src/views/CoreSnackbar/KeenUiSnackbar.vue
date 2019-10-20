@@ -154,24 +154,4 @@
     }
   }
 
-  .ui-snackbar--transition-slide-enter-active,
-  .ui-snackbar--transition-slide-leave-active {
-    transition: transform 0.4s ease;
-  }
-
-  .ui-snackbar--transition-slide-enter,
-  .ui-snackbar--transition-slide-leave-active {
-    transform: translateY(rem-calc(84px)); // stylelint-disable-line csstree/validator
-  }
-
-  .ui-snackbar--transition-fade-enter-active,
-  .ui-snackbar--transition-fade-leave-active {
-    transition: opacity 0.4s ease;
-  }
-
-  .ui-snackbar--transition-fade-enter,
-  .ui-snackbar--transition-fade-leave-active {
-    opacity: 0;
-  }
-
 </style>

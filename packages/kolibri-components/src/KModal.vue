@@ -4,7 +4,6 @@
   <transition name="fade">
     <div
       id="modal-window"
-      ref="modal-overlay"
       class="modal-overlay"
       @keyup.esc.stop="emitCancelEvent"
       @keyup.enter="handleEnter"
@@ -305,7 +304,6 @@
     height: 100%;
     background: rgba(0, 0, 0, 0.7);
     background-attachment: fixed;
-    transition: opacity $ease-time-normal ease;
   }
 
   // TODO: margins for stacked buttons.
@@ -325,14 +323,22 @@
     }
   }
 
-  .fade-enter-active,
   .fade-leave-active {
-    transition: all $ease-time-normal ease;
+    transition: opacity $ease-time-short $ease-curve-accelerate;
+  }
+
+  .fade-enter-active {
+    transition: opacity $ease-time-normal $ease-curve-standard;
   }
 
   .fade-enter,
-  .fade-leave-active {
+  .fade-leave-to {
     opacity: 0;
+  }
+
+  .fade-leave,
+  .fade-enter-to {
+    opacity: 1;
   }
 
   .title {

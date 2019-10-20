@@ -108,6 +108,8 @@
 
 <style lang="scss" scoped>
 
+  @import '~kolibri.styles.definitions';
+
   .snackbar {
     position: fixed;
     bottom: 0;
@@ -126,17 +128,24 @@
     background-color: rgba(0, 0, 0, 0.7);
   }
 
-  .snackbar-enter-active,
-  .snackbar-leave-active {
-    transition-timing-function: ease;
-    transition-duration: 0.4s;
-    transition-property: transform, opacity;
+  .snackbar-enter-active {
+    transition-timing-function: $ease-curve-decelerate;
+    transition-duration: $ease-time-normal;
+    transition-property: transform;
   }
 
-  .snackbar-enter,
+  .snackbar-leave-active {
+    transition-timing-function: $ease-curve-accelerate;
+    transition-duration: 10s;
+    transition-property: opacity;
+  }
+
+  .snackbar-enter {
+    transform: translateY(100px);
+  }
+
   .snackbar-leave-to {
     opacity: 0;
-    transform: translateY(100px);
   }
 
 </style>

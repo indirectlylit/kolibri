@@ -274,7 +274,7 @@
   }
 
   .list-move {
-    transition: transform $ease-time-normal ease;
+    transition: transform $ease-time-long $ease-curve-standard;
   }
 
 </style>

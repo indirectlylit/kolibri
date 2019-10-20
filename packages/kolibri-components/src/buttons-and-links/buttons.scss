@@ -1,7 +1,8 @@
 @import '~kolibri.styles.definitions';
 
-$transition: color $ease-time-normal ease, background-color $ease-time-normal ease,
-  box-shadow $ease-time-normal ease;
+$transition: color $ease-time-normal $ease-curve-standard,
+  background-color $ease-time-normal $ease-curve-standard,
+  box-shadow $ease-time-normal $ease-curve-standard;
 $raised-shadow: 0 1px 5px rgba(0, 0, 0, 0.2), 0 2px 2px rgba(0, 0, 0, 0.14),
   0 3px 1px -2px rgba(0, 0, 0, 0.12);
 

@@ -66,7 +66,7 @@
     height: 100%;
     margin-right: auto;
     opacity: 0.75;
-    transition: all $ease-time-normal ease;
+    transition: all $ease-time-long $ease-curve-standard;
   }
 
   .help {

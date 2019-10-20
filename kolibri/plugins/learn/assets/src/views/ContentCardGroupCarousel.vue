@@ -295,7 +295,8 @@
   .content-carousel-card {
     position: absolute;
     left: 0;
-    transition: left 0.4s ease, box-shadow $ease-time-normal ease;
+    transition: left $ease-time-long $ease-curve-standard,
+      box-shadow $ease-time-normal $ease-curve-standard;
   }
 
   .content-carousel-next-control,

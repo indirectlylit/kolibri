@@ -87,12 +87,14 @@
       </div>
     </transition>
 
-    <div
-      v-show="navShown"
-      class="side-nav-backdrop"
-      @click="toggleNav"
-    >
-    </div>
+    <transition name="backdrop">
+      <div
+        v-show="navShown"
+        class="side-nav-backdrop"
+        @click="toggleNav"
+      >
+      </div>
+    </transition>
 
     <PrivacyInfoModal
       v-if="privacyModalVisible"
@@ -269,7 +271,7 @@
   }
 
   .side-nav-enter-active {
-    transition: all 0.2s ease-in-out;
+    transition: all $ease-time-normal $ease-curve-decelerate;
   }
 
   .side-nav-enter-to {
@@ -281,7 +283,7 @@
   }
 
   .side-nav-leave-active {
-    transition: all 0.2s ease-in-out;
+    transition: all $ease-time-short $ease-curve-accelerate;
   }
 
   .side-nav-leave-to {
@@ -344,7 +346,24 @@
     height: 100%;
     background: rgba(0, 0, 0, 0.7);
     background-attachment: fixed;
-    transition: opacity 0.3s ease;
+  }
+
+  .backdrop-enter-active {
+    transition: opacity $ease-time-normal $ease-curve-standard;
+  }
+
+  .backdrop-leave-active {
+    transition: opacity $ease-time-short $ease-curve-standard;
+  }
+
+  .backdrop-enter-to,
+  .backdrop-leave {
+    opacity: 1;
+  }
+
+  .backdrop-leave-to,
+  .backdrop-enter {
+    opacity: 0;
   }
 
   /* keen menu */

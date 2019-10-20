@@ -1,7 +1,7 @@
-$time: 0.25s;
+@import '~kolibri.styles.definitions';
 
 .list-move {
-  transition: transform $time;
+  transition: transform $ease-time-long $ease-curve-standard;
 }
 
 .list-enter,
@@ -15,11 +15,9 @@ $time: 0.25s;
 }
 
 .list-enter-active {
-  transition: opacity $time;
-  transition-timing-function: ease-in;
+  transition: opacity $ease-time-long $ease-curve-accelerate;
 }
 
 .list-leave-active {
-  transition: all $time;
-  transition-timing-function: ease-out;
+  transition: all $ease-time-long $ease-curve-decelerate;
 }

@@ -93,6 +93,8 @@
 
 <style lang="scss" scoped>
 
+  @import '~kolibri.styles.definitions';
+
   $size: 30px;
   $margin: 4px;
 
@@ -114,11 +116,11 @@
   .attempt {
     position: absolute;
     text-align: center;
-    transition: all 0.5s ease-in-out;
+    transition: all 0.5s $ease-curve-standard;
   }
 
   .placeholder {
-    transition: border-bottom 0.1s linear;
+    transition: border-bottom $ease-time-short $ease-curve-standard;
   }
 
   .fade-enter,

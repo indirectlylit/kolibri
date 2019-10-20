@@ -112,7 +112,7 @@
 
   /deep/ .draggable-source--placed {
     animation-name: bounceIn;
-    animation-duration: $ease-time-normal;
+    animation-duration: $ease-time-long;
   }
 
   @keyframes bounceIn {

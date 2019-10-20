@@ -151,7 +151,7 @@
     padding: 0 8px;
     margin: 4px 8px 0;
     border-radius: $radius;
-    transition: background-color 100ms ease;
+    transition: background-color $ease-time-normal $ease-curve-standard;
   }
   .divider {
     display: block;

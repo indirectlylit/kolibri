@@ -90,7 +90,7 @@
   .progress-bar-complete {
     width: 0;
     height: 100%;
-    transition: width $ease-time-normal ease;
+    transition: width $ease-time-long $ease-curve-standard;
   }
 
   .progress-bar-text {
