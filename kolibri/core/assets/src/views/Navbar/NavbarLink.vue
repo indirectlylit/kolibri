@@ -94,7 +94,7 @@
     border-radius: 0;
     border-top-left-radius: $radius;
     border-top-right-radius: $radius;
-    transition: background-color $core-time ease;
+    transition: background-color $ease-time-normal ease;
     .dimmable {
       opacity: 0.6;
     }

@@ -92,7 +92,7 @@
 
   svg {
     height: 30px;
-    transition: transform $core-time ease-in;
+    transition: transform $ease-time-normal ease-in;
   }
 
   .rectified {

@@ -161,7 +161,7 @@
     text-decoration: none;
     vertical-align: top;
     border-radius: 2px;
-    transition: box-shadow $core-time ease;
+    transition: box-shadow $ease-time-normal ease;
     &:hover {
       @extend %dropshadow-8dp;
     }

@@ -233,7 +233,7 @@
   }
 
   .fade-numbers-enter-active {
-    transition: opacity $core-time;
+    transition: opacity $ease-time-normal;
   }
 
   .fade-numbers-enter {

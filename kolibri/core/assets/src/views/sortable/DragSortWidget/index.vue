@@ -117,7 +117,7 @@
   }
 
   .grip {
-    transition: opacity $core-time ease;
+    transition: opacity $ease-time-normal ease;
     transform: rotate(90deg);
   }
 
@@ -125,7 +125,7 @@
     position: absolute;
     left: -6px;
     z-index: 2;
-    transition: opacity $core-time ease;
+    transition: opacity $ease-time-normal ease;
   }
 
   // only dim the grip when the keyboard is being used

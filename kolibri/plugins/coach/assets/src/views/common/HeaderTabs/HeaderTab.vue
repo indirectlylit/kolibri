@@ -79,7 +79,7 @@
     border-top-left-radius: $radius;
     border-top-right-radius: $radius;
     outline: none;
-    transition: background-color $core-time ease;
+    transition: background-color $ease-time-normal ease;
   }
 
   .inner {

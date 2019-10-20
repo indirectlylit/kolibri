@@ -274,7 +274,7 @@
   }
 
   .list-move {
-    transition: transform $core-time ease;
+    transition: transform $ease-time-normal ease;
   }
 
 </style>

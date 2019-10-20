@@ -1,5 +1,12 @@
 $radius: 4px;
-$core-time: 0.25s;
+
+$ease-time-short: 75ms;
+$ease-time-normal: 150ms;
+$ease-time-long: 250ms;
+
+$ease-curve-standard: cubic-bezier(0.4, 0, 0.2, 1); // alternative to ease
+$ease-curve-decelerate: cubic-bezier(0, 0, 0.2, 1); // alternative to ease-out
+$ease-curve-accelerate: cubic-bezier(0.4, 0, 1, 1); // alternative to ease-in
 
 // dropshadows from Angular Material via https://stackoverflow.com/a/39199702
 
