@@ -1,7 +1,7 @@
 <template>
 
   <KModal
-    :title="$tr('selectLocalRemoteSourceTitle')"
+    title="Import resources"
     size="medium"
     :submitText="coreString('continueAction')"
     :cancelText="coreString('cancelAction')"
@@ -18,30 +18,55 @@
       {{ $tr('loadingMessage') }}
     </UiAlert>
 
-    <div>
-      <KRadioButton
-        v-model="source"
-        :label="$tr('network')"
-        :value="ContentSources.KOLIBRI_STUDIO"
-        :disabled="kolibriStudioIsOffline || formIsDisabled"
-        :autofocus="!kolibriStudioIsOffline"
-        :description="$tr('studioDescription')"
-      />
-      <KRadioButton
-        v-model="source"
-        :label="$tr('localNetworkOrInternet')"
-        :value="ContentSources.PEER_KOLIBRI_SERVER"
-        :disabled="formIsDisabled"
-        :description="$tr('networkDescription')"
-      />
-      <KRadioButton
-        v-model="source"
-        :label="$tr('localDrives')"
-        :value="ContentSources.LOCAL_DRIVE"
-        :disabled="formIsDisabled"
-        :description="$tr('localDescription')"
-      />
-    </div>
+    <h2>Select a source</h2>
+    <KRadioButton
+      v-model="source"
+      :label="$tr('network')"
+      :value="ContentSources.KOLIBRI_STUDIO"
+      :disabled="kolibriStudioIsOffline || formIsDisabled"
+      :autofocus="!kolibriStudioIsOffline"
+      :description="$tr('studioDescription')"
+    />
+    <KRadioButton
+      v-model="source"
+      :label="$tr('localNetworkOrInternet')"
+      :value="ContentSources.PEER_KOLIBRI_SERVER"
+      :disabled="formIsDisabled"
+      :description="$tr('networkDescription')"
+    />
+    <KRadioButton
+      v-model="source"
+      :label="$tr('localDrives')"
+      :value="ContentSources.LOCAL_DRIVE"
+      :disabled="formIsDisabled"
+      :description="$tr('localDescription')"
+    />
+
+    <h2>Resource selection</h2>
+    <KRadioButton
+      v-model="source"
+      label="Select entire channels"
+      :value="ContentSources.KOLIBRI_STUDIO"
+      :disabled="kolibriStudioIsOffline || formIsDisabled"
+      :autofocus="!kolibriStudioIsOffline"
+      description="Select multiple channels to import at once in bulk"
+    />
+    <KRadioButton
+      v-model="source"
+      label="Select topics and resources"
+      :value="ContentSources.PEER_KOLIBRI_SERVER"
+      :disabled="formIsDisabled"
+      description="Select resources within a single channel"
+    />
+    <KRadioButton
+      v-model="source"
+      label="Provide a resource manifest"
+      :value="ContentSources.LOCAL_DRIVE"
+      :disabled="formIsDisabled"
+      description="Use resources specified in a resource manifest file"
+    />
+
+
   </KModal>
 
 </template>

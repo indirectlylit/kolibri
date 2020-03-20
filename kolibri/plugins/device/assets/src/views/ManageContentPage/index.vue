@@ -144,6 +144,7 @@
             value: 'REARRANGE',
             disabled: this.installedChannelsWithResources.length === 1,
           },
+          { label: 'Export resource manifest', value: 'DELETE' },
         ];
       },
     },
